@@ -1,10 +1,16 @@
 logo: /images/OSTIn-Signature-09.png
 links:
+  - title: About Us
+    url: /example-page/
+  - title: Vision and Mission
+    url: /permalink
+  - title: "Programmes "
+    resource_room: true
+  - title: Funding Opportunities
+    url: /permalink
+  - title: Press Releases
+    url: /permalink
+  - title: Space Business Directory
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
