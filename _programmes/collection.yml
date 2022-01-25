@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - Project 2.md
       - Project 1.md
+      - Project 2.md
