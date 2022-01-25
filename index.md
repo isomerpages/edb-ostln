@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Office for Space Technology and Industry
+description: Singapore's National Space Agency
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
