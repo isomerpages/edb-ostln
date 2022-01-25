@@ -1,4 +1,5 @@
 collections:
   programmes:
     output: true
-    order: []
+    order:
+      - Project 1.md
