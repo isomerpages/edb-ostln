@@ -13,3 +13,5 @@ OSTIn is responsible for:
 3. fostering an enabling regulatory environment for Singapore’s space activities;
 4. establishing international partnerships and contributing to the development of multilateral norms on space; 
 5. supporting the development of Singapore’s future workforce through space-based STEM outreach.
+
+Meet our OSTIn Executive Management Team!
