@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Office for Space Technology and Industry
       subtitle: Singapore's National Space Office
-      background: /images/OSTIn%20Background.jpg
+      background: /images/OSTIn%20Background_cropped.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -28,8 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
