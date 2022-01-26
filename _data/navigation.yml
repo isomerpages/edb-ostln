@@ -5,8 +5,8 @@ links:
   - title: Vision and Mission
     url: /permalink
   - title: Programmes
-    resource_room: true
-  - title: Funding Opportunities
+    collection: programmes
+  - title: Funding & Grants
     url: /fund-opp
   - title: Press Releases
     url: /permalink
