@@ -18,10 +18,10 @@ sections:
           - title: 20XX STDP Grant Call
             url: /permalink
   - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Our Journey Thus Far
+      button: click here to find out more!
+      url: www.google.com
+      subtitle: Singapore's Space Journey
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
