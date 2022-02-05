@@ -2,13 +2,13 @@ title: Office for Space Technology and Industry
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#4372d6"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#49759a"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
