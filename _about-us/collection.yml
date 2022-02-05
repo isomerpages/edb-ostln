@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Our Executive Director.md
       - About Us.md
