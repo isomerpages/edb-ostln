@@ -23,11 +23,11 @@ sections:
       url: www.google.com
       subtitle: Singapore's Space Journey
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Our Achievements
+      description: Take a look at some of the achievements made by our stakeholders
+        since our inception!
       alt: Image alt text
+      image: /images/Numbers.png
   - resources:
       title: Photo Gallery
       button: Photo Gallery
