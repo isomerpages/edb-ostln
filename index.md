@@ -20,7 +20,7 @@ sections:
   - infobar:
       title: Our Journey Thus Far
       button: click here to find out more!
-      url: www.google.com
+      url: /space-journey
       subtitle: Singapore's Space Journey
   - infopic:
       title: Our Achievements
