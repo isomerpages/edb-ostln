@@ -24,10 +24,11 @@ sections:
       subtitle: Singapore's Space Journey
   - infopic:
       title: Our Achievements
-      description: Take a look at some of the achievements made by our stakeholders
-        since our inception!
       alt: Image alt text
-      image: /images/Numbers.png
+      image: /images/achievements.jpg
+      button: Take a look at some of the achievements made by our stakeholders since
+        our inception!
+      url: /achievements
   - resources:
       title: Photo Gallery
       button: Photo Gallery
