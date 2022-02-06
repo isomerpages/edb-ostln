@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Office for Space Technology and Industry
+title: The Office for Space Technology and Industry
 description: Singapore's National Space Office
 image: /images/isomer-logo.svg
 permalink: /
@@ -33,3 +33,4 @@ sections:
       title: Photo Gallery
       button: Photo Gallery
 ---
+
