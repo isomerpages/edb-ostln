@@ -17,11 +17,6 @@ sections:
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: ""
-  - infobar:
-      title: Our Journey Thus Far
-      button: click here to find out more!
-      url: /space-journey
-      subtitle: Singapore's Space Journey
   - infopic:
       title: Our Achievements
       alt: Image alt text
