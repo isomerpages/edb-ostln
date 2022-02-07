@@ -10,13 +10,13 @@ sections:
       title: Office for Space Technology and Industry
       subtitle: Singapore's National Space Office
       background: /images/OSTIn%20Background_cropped.jpg
-      dropdown:
-        title: Recent News and Updates
-        options:
-          - title: Launch of SG-1
-            url: /permalink
-          - title: 20XX STDP Grant Call
-            url: /permalink
+      key_highlights:
+        - title: Singapore's Space Journey
+          description: Our Journey Thus Far
+          url: /sg-space-journey
+        - title: Singapore's Space Highlights
+          description: Check out the achievements of the Space ecosystem here in Singapore!
+          url: ""
   - infobar:
       title: Our Journey Thus Far
       button: click here to find out more!
@@ -33,4 +33,3 @@ sections:
       title: Photo Gallery
       button: Photo Gallery
 ---
-
