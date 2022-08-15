@@ -25,4 +25,9 @@ contacts:
       - email: ""
       - other: https://www.facebook.com/OSTInSingapore
     title: Facebook
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.linkedin.com/company/ostinsingapore/
+    title: Linkedin
 ---
