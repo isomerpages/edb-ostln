@@ -2,5 +2,6 @@ collections:
   homepage:
     output: true
     order:
+      - Singapore's Space Journey.md
       - Singapore Space Ecosystem.md
       - Achievements.md
