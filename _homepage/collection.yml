@@ -2,6 +2,5 @@ collections:
   homepage:
     output: true
     order:
-      - Hero Pages/Singapore's Space Journey.md
       - Hero Pages/Singapore Space Ecosystem.md
       - Hero Pages/.keep
