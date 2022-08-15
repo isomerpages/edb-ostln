@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Funding Opportunities/.keep
       - STEM Outreach.md
