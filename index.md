@@ -33,4 +33,5 @@ sections:
       button: Photos
       url: /ostin-photos
       image: /images/Linkedin Photos/SmartSelect_20220815-163057_Chrome.jpg
+      alt: Team OSTIn
 ---
