@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Office for Space Technology and Industry
+      title: Office for Space Technology & Industry
       subtitle: Singapore's National Space Office
       background: /images/OSTIn%20Background_cropped.jpg
       key_highlights:
