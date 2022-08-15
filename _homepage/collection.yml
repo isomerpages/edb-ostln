@@ -1,4 +1,5 @@
 collections:
   homepage:
     output: true
-    order: []
+    order:
+      - Achievements.md
