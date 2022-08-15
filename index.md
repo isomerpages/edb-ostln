@@ -25,7 +25,6 @@ sections:
         our inception!
       url: /achievements
   - resources:
-      title: Photo Gallery
-      button: Photo Gallery
+      title: Latest News
+      button: Latest News
 ---
-
