@@ -1,4 +1,5 @@
 collections:
   singapore-space-ecosystems:
     output: true
-    order: []
+    order:
+      - Brochure.md
