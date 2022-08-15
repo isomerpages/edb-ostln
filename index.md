@@ -19,7 +19,7 @@ sections:
           url: /sg-space-highlights
   - resources:
       title: Latest News
-      button: Latest News
+      button: OSTIn Updates
   - infopic:
       title: Our Achievements
       alt: Image alt text
