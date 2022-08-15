@@ -20,14 +20,4 @@ contacts:
       - email: ostin@edb.gov.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.facebook.com/OSTInSingapore
-    title: Facebook
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.linkedin.com/company/ostinsingapore/
-    title: Linkedin
 ---
