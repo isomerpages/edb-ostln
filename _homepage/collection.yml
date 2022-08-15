@@ -1,5 +1,0 @@
-collections:
-  homepage:
-    output: true
-    order:
-      - Hero Pages/.keep
