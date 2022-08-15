@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Funding Opportunities/EDB Grants.md
-      - Funding Opportunities/Space Technology Development Programme.md
       - Funding Opportunities/.keep
+      - Funding Opportunities/Space Technology Development Programme.md
+      - Funding Opportunities/EDB Grants.md
       - STEM Outreach.md
