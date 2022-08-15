@@ -17,6 +17,9 @@ sections:
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: ""
+  - resources:
+      title: Latest News
+      button: Latest News
   - infopic:
       title: Our Achievements
       alt: Image alt text
@@ -24,7 +27,10 @@ sections:
       button: Take a look at some of the achievements made by our stakeholders since
         our inception!
       url: /achievements
-  - resources:
-      title: Latest News
-      button: Latest News
+  - infopic:
+      title: Photo Gallery
+      description: OSTIn in Pictures
+      button: Photos
+      url: /ostin-photos
+      image: /images/Linkedin Photos/SmartSelect_20220815-163057_Chrome.jpg
 ---
