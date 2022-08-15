@@ -1,0 +1,4 @@
+collections:
+  press-releases:
+    output: true
+    order: []
