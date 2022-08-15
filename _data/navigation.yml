@@ -11,7 +11,7 @@ links:
         url: /permalink
       - title: STEM Outreach
         url: /permalink
-  - title: Press Releases
-    url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: Press Releases
+    collection: press-releases
