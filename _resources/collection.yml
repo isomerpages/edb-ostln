@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Funding Opportunities/Space Technology Development Programme.md
       - Funding Opportunities/.keep
       - STEM Outreach.md
