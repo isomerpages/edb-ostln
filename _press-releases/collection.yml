@@ -1,4 +1,5 @@
 collections:
   press-releases:
     output: true
-    order: []
+    order:
+      - Press Releases.md
