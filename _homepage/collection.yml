@@ -2,4 +2,5 @@ collections:
   homepage:
     output: true
     order:
+      - Singapore Space Ecosystem.md
       - Achievements.md
