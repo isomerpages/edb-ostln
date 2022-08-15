@@ -4,13 +4,6 @@ links:
     collection: about-us
   - title: Singapore Space Ecosystem
     url: /sg-space-ecosystem
-  - title: Resources
-    url: /permalink
-    sublinks:
-      - title: Funding Opportunities
-        url: /permalink
-      - title: STEM Outreach
-        url: /permalink
   - title: Press Releases
     collection: press-releases
   - title: Contact Us
