@@ -2,8 +2,8 @@ logo: /images/OSTIn-Signature-09.png
 links:
   - title: About Us
     collection: about-us
-  - title: Singapore Space Ecosystem
-    url: /sg-space-ecosystem
+  - title: Singapore Space Ecosystems
+    collection: singapore-space-ecosystems
   - title: Resources
     collection: resources
   - title: Press Releases
