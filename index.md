@@ -31,7 +31,7 @@ sections:
       title: Photo Gallery
       description: OSTIn in Pictures
       button: Photos
-      url: /ostin-photos
+      url: /photos/ostin-photos
       image: /images/Social Media Photos/SmartSelect_20220815-163057_Chrome.jpg
       alt: Team OSTIn
 ---
