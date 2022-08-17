@@ -2,4 +2,5 @@ collections:
   press-releases:
     output: true
     order:
+      - Speeches.md
       - Press Releases.md
