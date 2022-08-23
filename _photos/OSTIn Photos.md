@@ -5,7 +5,7 @@ description: ""
 ---
 **2nd Thematic Grant Call Information Session**
 ![GrantCallOpening](/images/Social%20Media%20Photos/Grant%20Call%20Info%20Session%201.png)
-
+Director (Technology) Dr. Lim Yuan Liang addressing the attendees on what are the themes of the open grant call.
 ![GrantCallOpening2](/images/Social%20Media%20Photos/Grant%20Call%20Info%20Session%202.png)
 
 **Singapore at the 65th session of COPUOS**
