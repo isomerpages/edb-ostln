@@ -5,6 +5,8 @@ date: 2022-07-15
 layout: post
 description: ""
 ---
+![Open Grant Call](/images/Social%20Media%20Photos/Grant%20Call.png)
+
 📣 Grant Call Launched! 📣  
   
 OSTIn has launched our second thematic open grant call for space technologies!  
