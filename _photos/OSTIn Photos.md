@@ -8,6 +8,10 @@ description: ""
 Director (Technology) Dr. Lim Yuan Liang addressing the attendees on what are the themes of the open grant call.
 ![GrantCallOpening2](/images/Social%20Media%20Photos/Grant%20Call%20Info%20Session%202.png)
 
+**Asia Satellite Business Week**
+![ASBW](/images/Social%20Media%20Photos/Fireside%20chat%20Asia%20Satellite%20Business.png)
+OSTIn Executive Director David Tan spoke with Euroconsult Laurence Lagriffoul during a fireside chat at Asia Satellite Business Week today. During the discussion, Mr Tan spoke about the history and future of Singapore’s space economy as well as OSTIn’s strategy to grow the local space ecosystem.
+
 **Singapore at the 65th session of COPUOS**
 ![65copuos](/images/Social%20Media%20Photos/65th%20COPUOS.png)
 Deputy Executive Director Mr Chris Leck reiterated Singapore’s commitment to COPUOS as a vital platform for dialogue on the norms, rules and standards which apply to exploration and use of outer space for peaceful purposes, and called for the international community to continue efforts to promote the responsible and sustainable use of space.
