@@ -11,7 +11,7 @@ In 2020, OSTIn, led by Executive Director David Tan,  received the mandate to se
 
 In addition, OSTIn operates as the national focal point to plan for all civil space matters in Singapore. As a responsible actor in space, Singapore is committed to the peaceful and sustainable use of space resources, and is a member of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). To that end, OSTIn aims to foster an enabling regulatory environment for Singapore’s space activities.
 
-Supporting the development our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click to find out more about our outreach efforts!
+Supporting the development our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click [here](/resources/stem-outreach) to find out more about our outreach efforts!
 
 In essence, OSTIn is Singapore's national space office responsible for:
 
