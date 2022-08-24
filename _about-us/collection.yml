@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our team.md
       - Overview.md
+      - Our team.md
