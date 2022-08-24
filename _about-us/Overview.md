@@ -13,6 +13,7 @@ In addition, OSTIn operates as the national focal point to plan for all civil sp
 
 Supporting the development our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click [here](/resources/stem-outreach) to find out more about our outreach efforts!
 
+# OSTIn's mandate
 In essence, OSTIn is Singapore's national space office responsible for:
 
 a) nurturing the development of space technology capabilities to serve national imperatives;
