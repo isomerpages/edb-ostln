@@ -2,5 +2,5 @@ collections:
   singapore-space-ecosystems:
     output: true
     order:
-      - Ecosystem Highlights.md
+      - Ecosystem.md
       - Download OSTIn Brochure.md
