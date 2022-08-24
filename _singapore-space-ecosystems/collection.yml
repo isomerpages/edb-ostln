@@ -2,4 +2,5 @@ collections:
   singapore-space-ecosystems:
     output: true
     order:
+      - Ecosystem Highlights.md
       - Brochure.md
