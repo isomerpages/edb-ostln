@@ -11,3 +11,4 @@ Some key highlights:
 
 ![Ecosystem highlight 1](/images/Space%20Ecosystem%20Highlight%201.png)
 
+![Ecosystem Highlight 2](/images/Space%20Ecosystem%20Highlight%202.png)
