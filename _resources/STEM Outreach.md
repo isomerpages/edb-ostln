@@ -13,8 +13,15 @@ To achieve our goals, OSTIn works with a range of partners such as the Ministry 
 
 Some of the past programmes that OSTIn has supported include:
 
-- [Singapore Space Challenge](https://spacefaculty.asia/isc_2023/)
-- Space Explorers Network Program
+- Integrated Space Programme
+- [International Space Challenge](https://spacefaculty.asia/isc_2023/)
+- Internship programmes
+- ISS Experiments Programme
+- [Singapore Space Symposium](http://singapore-space-symposium.org)
+- Space Data Exploitation Programme
+- Space Festival
+- Space Hackathon
+- Space Explorers Network Programme
 - [World Space Week](https://www.worldspaceweek.org/)
 - AOGS Geoscience Challenge
 - [Students for the Exploration and Development of Space (SEDS)](https://www.facebook.com/SEDS-NTU-260694784859169/)
