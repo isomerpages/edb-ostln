@@ -13,7 +13,7 @@ The rapid growth of our space ecosystem can be attributed to some of the advanta
 - Ease of doing business due to open and fair regulations that protects intellectual property and business interests and connectivity to the rest of the world
 - Culture that embraces innovation, poised to take advantage of or create the next disruptive technology
 
-If you are an investor or company looking to set up business in Singapore and would like to find out more, please feel free to contact us 
+If you are an investor or company looking to set up business in Singapore and would like to find out more, please feel free to contact us [here](/contact-us/).
 
 Some key highlights:
 
