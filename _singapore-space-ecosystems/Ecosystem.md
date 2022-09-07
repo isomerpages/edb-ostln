@@ -9,3 +9,5 @@ For more information on some of these companies and organization, please downloa
 
 Some key highlights:
 
+![Ecosystem highlight 1](/images/Space%20Ecosystem%20Highlight%201.png)
+
