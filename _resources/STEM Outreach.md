@@ -10,3 +10,11 @@ A vibrant and successful space ecosystem requires a talented and capable workfor
 ![Outreach strategy](/images/Outreach%20strategy%20infographic.png)
 
 To achieve our goals, OSTIn works with a range of partners such as the Ministry of Education(MOE), schools like National University of Singapore(NUS), Singapore Science Center, Singapore Space & Technology Limited(SSTL), and Space Faculty.
+
+Some of the past programmes that OSTIn has supported include:
+
+- [Singapore Space Challenge](https://spacefaculty.asia/isc_2023/)
+- Space Explorers Network Program
+- [World Space Week](https://www.worldspaceweek.org/)
+- AOGS Geoscience Challenge
+- [Students for the Exploration and Development of Space (SEDS)](https://www.facebook.com/SEDS-NTU-260694784859169/)
