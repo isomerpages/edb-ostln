@@ -1,9 +1,9 @@
 ---
 title: Download OSTIn Brochure
-permalink: /about-us/brochure
+permalink: /about-us/brochure/
 description: ""
 ---
+Please click [here](https://file.go.gov.sg/sgspaceecosystem.pdf) to view or download a copy of our corporate brochure.
 
-[OSTIn and Singapore's Space Ecosystem]()
+Alternatively, you may scan the QR code below to download a copy.
 
-Previous version for placeholder.
