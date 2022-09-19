@@ -1,5 +1,5 @@
 collections:
-  singapore-space-ecosystems:
+  singapore-space-ecosystem:
     output: true
     order:
       - Ecosystem.md
