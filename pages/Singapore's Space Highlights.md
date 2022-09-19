@@ -5,7 +5,6 @@ date: 2022-02-05
 layout: post
 description: ""
 ---
-
 Legacy section from the first website design. But it feels repetitive from Singapore space ecosystem section above.
 
 Might want to reconsider this section.
@@ -15,3 +14,7 @@ Might want to reconsider this section.
 ![Alt text for image on Isomer site](/images/ecosystem.jpg)
 
 [Insert writeup about key RIs/IHLs]
+
+I would recommend using this image instead (Ronald):
+
+![Ecosystem Highlight 2](/images/Space%20Ecosystem%20Highlight%202.png) 
