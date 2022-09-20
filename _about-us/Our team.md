@@ -11,9 +11,9 @@ description: ""
 ||Ms. Joey Tang, Executive Officer|
 ||Dr. Lim Yuan Liang, Director|
 || , Deputy Director|
-||Dr. Tan Wei Lin, Senior Manager|
+|![Wei Lin](/images/Org%20Chart%20Photos/Wei%20Lin.png)|Dr. Tan Wei Lin, Senior Manager|
 ||Mr. Ryan Wong, Senior Manager|
 ||Ms. Ashna Lazatin, Manager|
 ||Mr. Lim Jun Kai, Manager|
 ||Mr. Clive Aw, Senior Associate|
-||Ms. Choo Li Ying, Senior Associate|
+|![Li Ying](/images/Org%20Chart%20Photos/Li%20Ying.jpg)|Ms. Choo Li Ying, Senior Associate|
