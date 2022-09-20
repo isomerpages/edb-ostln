@@ -5,7 +5,7 @@ description: ""
 ---
 |  | Name, Title ||
 | -------- | -------- | -------- |
-| ![test](/images/OSTIn%20Background.jpg)     | Mr. David Tan, Executive Director     |
+|| Mr. David Tan, Executive Director|
 ||Mr. Chris Leck, Deputy Executive Director|
 ||Mr. Ronald Tong, Deputy Executive Director|
 ||Ms. Joey Tang, Executive Officer|
