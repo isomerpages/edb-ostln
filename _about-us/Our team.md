@@ -6,7 +6,7 @@ description: ""
 |  | Name, Title ||
 | -------- | -------- | -------- |
 || Mr. David Tan, Executive Director|
-||Mr. Chris Leck, Deputy Executive Director|
+|![Chris Leck](/images/Org%20Chart%20Photos/Chris%20Leck(Deputy%20Executive%20Director%20-%20OSTIn).jpeg)|Mr. Chris Leck, Deputy Executive Director|
 ||Mr. Ronald Tong, Deputy Executive Director|
 ||Ms. Joey Tang, Executive Officer|
 ||Dr. Lim Yuan Liang, Director|
