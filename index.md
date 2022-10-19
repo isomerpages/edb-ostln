@@ -21,10 +21,10 @@ sections:
       title: Latest News
       button: OSTIn Updates
   - infopic:
-      title: Our Achievements
+      title: Resources for researchers and companies
       alt: Image alt text
       image: /images/achievements.jpg
-      button: Take a look at some of the achievements made by our stakeholders since
-        our inception!
-      url: /achievements
+      button: Find out how OSTIN can help
+      url: /resources
+      subtitle: Funding Opportunities
 ---
