@@ -27,11 +27,4 @@ sections:
       button: Take a look at some of the achievements made by our stakeholders since
         our inception!
       url: /achievements
-  - infopic:
-      title: Photo Gallery
-      description: OSTIn in Pictures
-      button: Photos
-      url: /photos/ostin-photos
-      image: /images/Social Media Photos/SmartSelect_20220815-163057_Chrome.jpg
-      alt: Team OSTIn
 ---
