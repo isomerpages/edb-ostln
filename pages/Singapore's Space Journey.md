@@ -5,4 +5,4 @@ date: 2022-02-06
 layout: post
 description: ""
 ---
-![Milestone infographic](/images/OSTIn%20Milestone%20infographic.jpg)
+![Ecosystem Highlight 2](/images/Space%20Ecosystem%20Highlight%202.png)
