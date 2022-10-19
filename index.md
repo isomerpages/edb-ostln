@@ -18,8 +18,8 @@ sections:
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: /singapore-space-ecosystems/highlights/
   - resources:
-      title: Latest News
-      button: OSTIn Updates
+      title: Latest Posts
+      button: All posts
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text
