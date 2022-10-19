@@ -25,6 +25,6 @@ sections:
       alt: Image alt text
       image: /images/achievements.jpg
       button: Find out how OSTIN can help
-      url: /resources
+      url: /resources/Funding-Opportunities/STDP/
       subtitle: Funding Opportunities
 ---
