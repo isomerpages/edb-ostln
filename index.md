@@ -16,7 +16,7 @@ sections:
           url: /sg-space-journey
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
-          url: /sg-space-highlights
+          url: /singapore-space-ecosystems/highlights/
   - resources:
       title: Latest News
       button: OSTIn Updates
