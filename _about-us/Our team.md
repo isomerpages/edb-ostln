@@ -11,7 +11,7 @@ description: ""
 ||Ms. Joey Tang, Executive Officer|
 ||Dr. Lim Yuan Liang, Director|
 || , Deputy Director|
-|![Wei Lin](/images/Org%20Chart%20Photos/Wei%20Lin.png)|Dr. Tan Wei Lin, Senior Manager|
+|![Tan Wei Lin](/images/Org%20Chart%20Photos/Tan%20Wei%20Lin%20(Senior%20Manager%20-%20Technology).png)|Dr. Tan Wei Lin, Senior Manager|
 ||Mr. Ryan Wong, Senior Manager|
 |![Ashna Lazatin](/images/Org%20Chart%20Photos/Ashna%20Lazatin%20(Manager%20-%20Policy%20&%20Partnership).jpeg)|Ms. Ashna Lazatin, Manager|
 ||Mr. Lim Jun Kai, Manager|
