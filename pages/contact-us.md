@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Office for Space Technology and Industry
+agency_name: Office for Space Technology & Industry
 locations:
   - address:
       - 250 North Bridge Road
