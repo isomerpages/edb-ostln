@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text
-      image: /images/achievements.jpg
+      image: /images/We can help.png
       button: Find out how OSTIN can help
       url: /resources/Funding-Opportunities/STDP/
       subtitle: Funding Opportunities
