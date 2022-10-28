@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Industry Development.md
       - Funding Opportunities/.keep
       - Funding Opportunities/Space Technology Development Programme.md
       - Funding Opportunities/EDB Grants.md
