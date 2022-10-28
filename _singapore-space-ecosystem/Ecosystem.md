@@ -3,7 +3,7 @@ title: Ecosystem
 permalink: /singapore-space-ecosystems/highlights/
 description: ""
 ---
-Although Singapore's space ecosystem is relatively nascent, its growth is accelerating and the organizations involved have made great strides in expanding their areas of expertise. Singapore's space sector contributes to about $1 billion to Singapore's GDP, and comprises over 2,000 professionals working in over 50 companies active in different sections of the entire value chain -  from design and manufacturing to satellite based services such as data processing.
+Although Singapore's space ecosystem is relatively nascent, its growth is accelerating and the organizations involved have made great strides in expanding their areas of expertise. Singapore's space sector comprises of over 2,000 professionals working in over 50 companies active in different sections of the entire value chain -  from design and manufacturing to satellite based services such as data processing.
 
 For more information on some of these companies and organizations, please download a copy of our corporate brochure [here](/about-us/brochure/).
 
