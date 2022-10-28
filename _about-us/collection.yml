@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Our team.md
+      - Our Team.md
       - Our logo.md
