@@ -1,0 +1,20 @@
+---
+title: Our Team
+permalink: /about-us/orgchart/
+description: ""
+---
+
+|  | Name, Title ||
+| -------- | -------- | -------- |
+|| Mr. David Tan, Executive Director|
+|![Chris Leck](/images/Org%20Chart%20Photos/Chris%20Leck(Deputy%20Executive%20Director%20-%20OSTIn).jpeg)|Mr. Chris Leck, Deputy Executive Director|
+||Mr. Ronald Tong, Deputy Executive Director|
+||Ms. Joey Tang, Executive Officer|
+||Dr. Lim Yuan Liang, Director|
+|| , Deputy Director|
+|![Tan Wei Lin](/images/Org%20Chart%20Photos/Tan%20Wei%20Lin%20(Senior%20Manager%20-%20Technology).png)|Dr. Tan Wei Lin, Senior Manager|
+||Mr. Ryan Wong, Senior Manager|
+|![Ashna Lazatin](/images/Org%20Chart%20Photos/Ashna%20Lazatin%20(Manager%20-%20Policy%20&%20Partnership).jpeg)|Ms. Ashna Lazatin, Manager|
+||Mr. Lim Jun Kai, Manager|
+||Mr. Clive Aw, Senior Associate|
+|![Choo Li Ying](/images/Org%20Chart%20Photos/Choo%20Li%20Ying%20(Senior%20Associate%20-%20Industry.jpg)|Ms. Choo Li Ying, Senior Associate|
