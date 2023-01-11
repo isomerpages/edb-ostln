@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Vision & Mission.md
       - Overview.md
+      - Our Vision & Mission.md
       - Our Team.md
       - Our Logo.md
