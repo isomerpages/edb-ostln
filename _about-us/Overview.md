@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 # OSTIn's mandate
-In essence, OSTIn is Singapore's national space office responsible for:
+OSTIn is Singapore's national space office responsible for:
 
 a) nurturing the development of space technology capabilities to serve national imperatives;
 
@@ -29,4 +29,3 @@ To grow a globally competitive space industry in Singapore, OSTIn collaborates c
 In addition, OSTIn operates as the national focal point to plan for all civil space matters in Singapore. As a responsible actor in space, Singapore is committed to the peaceful and sustainable use of space resources, and is a member of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). To that end, OSTIn aims to foster an enabling regulatory environment for Singapore’s space activities.
 
 Supporting the development our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click [here](/resources/stem-outreach) to find out more about our outreach efforts!
-
