@@ -11,9 +11,6 @@ sections:
       subtitle: Singapore's National Space Office
       background: /images/OSTIn%20Background_cropped.jpg
       key_highlights:
-        - title: Singapore's Space Journey
-          description: Our Journey Thus Far
-          url: /sg-space-journey
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: /singapore-space-ecosystems/highlights/
