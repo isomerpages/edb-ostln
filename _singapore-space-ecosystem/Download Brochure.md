@@ -7,4 +7,4 @@ Please click [here](https://file.go.gov.sg/sgspaceecosystem.pdf) to view or down
 
 Alternatively, you may scan the QR code below to download a copy.
 
-![](/images/QR%20code%20for%20Brochure3.png)
+![](/images/Picture2.png)
