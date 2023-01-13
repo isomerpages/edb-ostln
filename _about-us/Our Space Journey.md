@@ -5,21 +5,6 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-
-
-# OSTIn's mandate
-OSTIn is Singapore's national space office responsible for:
-
-a) nurturing the development of space technology capabilities to serve national imperatives;
-
-b) growing a globally competitive space industry in Singapore;
-
-c) fostering an enabling regulatory environment for Singapore's space activities;
-
-d) expanding international partnerships and contributing to strengthening the international governance regime for space activities;
-
-e) supporting the development of talent for Singapore's space sector and future workforce.
-
 # OSTIn's Journey
 
 In 2013, the Singapore Economic Development Board (EDB), together with other participating ministries and agencies, established the Office for Space Technology and Industry (OSTIn) in order to capture the economic opportunities and build a thriving space industry for Singapore. 
