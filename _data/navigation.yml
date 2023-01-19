@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/OSTIn-Signature-09.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Singapore Space Ecosystem
+    collection: singapore-space-ecosystem
+  - title: How we Can Help
+    collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true

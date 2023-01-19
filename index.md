@@ -1,36 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: The Office for Space Technology and Industry
+description: Singapore's National Space Office
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Office for Space Technology & Industry
+      subtitle: Singapore's National Space Office
+      background: /images/OSTIn%20Background_cropped.jpg
+      key_highlights:
+        - title: Singapore's Space Highlights
+          description: Check out the achievements of the Space ecosystem here in Singapore!
+          url: /singapore-space-ecosystems/highlights/
+  - resources:
+      title: Latest Posts
+      button: All posts
+  - infopic:
+      title: Resources for researchers and companies
+      alt: Image alt text
+      image: /images/We can help.png
+      button: Find out how OSTIN can help
+      url: /resources/Funding-Opportunities/STDP/
+      subtitle: Funding Opportunities
 ---
-

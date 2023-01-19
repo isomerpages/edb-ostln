@@ -1,0 +1,7 @@
+collections:
+  singapore-space-ecosystem:
+    output: true
+    order:
+      - Ecosystem.md
+      - Download Brochure.md
+      - Singapore Space Directory.md

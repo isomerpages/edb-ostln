@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Vision & Mission.md
+      - Our Space Journey.md
+      - Our Team.md
+      - Our Logo.md
