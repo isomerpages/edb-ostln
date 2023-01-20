@@ -1,5 +1,4 @@
 collections:
   outreach:
     output: true
-    order:
-      - example-page/.keep
+    order: []
