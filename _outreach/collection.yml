@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  outreach:
     output: true
     order:
       - example-page/.keep
