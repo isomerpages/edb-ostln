@@ -1,4 +1,5 @@
 collections:
   outreach:
     output: true
-    order: []
+    order:
+      - STEM Outreach.md
