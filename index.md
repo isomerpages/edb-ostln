@@ -2,7 +2,7 @@
 layout: homepage
 title: The Office for Space Technology and Industry
 description: Singapore's National Space Office
-image: /images/isomer-logo.svg
+image: /images/OSTIn.jpg
 permalink: /
 notification: ""
 sections:
@@ -25,3 +25,4 @@ sections:
       url: /resources/Funding-Opportunities/STDP/
       subtitle: Funding Opportunities
 ---
+
