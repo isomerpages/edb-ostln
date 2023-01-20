@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Funding Opportunities/.keep
-      - Funding Opportunities/Space Technology Development Programme.md
-      - Funding Opportunities/Incentives and Grants.md
+      - Funding Opportunities   STDP/.keep
+      - Funding Opportunities   STDP/Space Technology Development Programme.md
+      - Funding Opportunities   STDP/Incentives and Grants.md
       - STEM Outreach.md
