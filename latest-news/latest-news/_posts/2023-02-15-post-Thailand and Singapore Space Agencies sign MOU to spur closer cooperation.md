@@ -7,6 +7,8 @@ description: Thailand and Singapore Space Agencies sign MOU to spur closer coope
 image: /images/GITSDA OSTIn MOU.jpg
 ---
 
+![](/images/GITSDA%20OSTIn%20MOU.jpg)
+
 15 Feb 2023, Singapore - The Office for Space Technology &amp; Industry, Singapore (OSTIn) and the Geo-
 Informatics and Space Technology Development Agency (GISTDA) of Thailand
 signed a Memorandum of Understanding (MOU) today to galvanise space
