@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: The Office for Space Technology and Industry
+title: The Office for Space Technology & Industry
 description: Singapore's National Space Office
-image: /images/isomer-logo.svg
+image: /images/OSTIn.jpg
 permalink: /
 notification: ""
 sections:
@@ -15,8 +15,8 @@ sections:
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: /singapore-space-ecosystems/highlights/
   - resources:
-      title: Latest Posts
-      button: All posts
+      title: Latest News
+      button: All News
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text

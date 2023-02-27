@@ -1,6 +1,6 @@
-title: The Office for Space Technology and Industry
+title: The Office for Space Technology & Industry
 url: https://www.space.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/OSTIn small logo.jpg
 colors:
   primary-color: "#006298"
   secondary-color: "#49759a"
@@ -53,7 +53,7 @@ plugins:
 staging: https://edb-ostIn-staging.netlify.app
 prod: https://edb-ostIn-prod.netlify.app
 is_government: true
-shareicon: /images/isomer-logo.svg
+shareicon: /images/OSTIn.jpg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""

@@ -1,10 +1,8 @@
 ---
-title: Space Technology Development Programme
-permalink: /resources/Funding-Opportunities/STDP/
+title: Space Technology Development Programme (STDP)
+permalink: /resources/STDP/
 description: ""
-third_nav_title: Funding Opportunities
 ---
-
 OSTIn’s S$150M flagship Space Technology Development Programme
 (STDP) seeks to develop space capabilities to support domains such as
 aviation, maritime and sustainability, which are critical to Singapore and

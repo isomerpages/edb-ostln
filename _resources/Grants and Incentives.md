@@ -1,10 +1,8 @@
 ---
-title: Incentives and Grants
-permalink: /resources/Funding-Opportunities/incentives-and-grants/
+title: Grants and Incentives
+permalink: /resources/grants-and-incentives/
 description: ""
-third_nav_title: Funding Opportunities
 ---
-
 Learn about the different types of incentives and schemes available to help businesses via the link below: 
 
 - [EDB Incentives](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
