@@ -7,7 +7,7 @@ description: Mangata Networks announces new Maritime Global Headquarters and
   Systems Infrastructure R&D Centre in Singapore
 image: /images/Mangata.png
 ---
-# The partnership between Mangata Networks and the Office for Space Technology and Industry, Singapore (OSTIn) will usher in an era of digital transformation within the maritime sector.
+![](/images/Mangata.png)
 
 February 15th, 2023, Singapore -- Mangata Networks, an innovative satellite-enabled network and edge cloud computing services company, has established Singapore as the location for its Maritime Global Headquarters (MGHQ). Supported by the Office for Space Technology and Industry, Singapore (OSTIn,) the MGHQ will enable the development of vital technology, enhance Singapore’s position as a key player in the space industry, and support the rapid growth of Mangata’s operations in the region.  
   
