@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: The Office for Space Technology and Industry
+title: The Office for Space Technology & Industry
 description: Singapore's National Space Office
 image: /images/OSTIn.jpg
 permalink: /
@@ -25,4 +25,5 @@ sections:
       url: /resources/Funding-Opportunities/STDP/
       subtitle: Funding Opportunities
 ---
+
 
