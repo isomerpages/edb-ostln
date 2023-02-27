@@ -11,8 +11,8 @@ improve the country’s space industry’s competitiveness.
 
 Projects supported by the STDP include:
 
-• Very low Earth orbit (VLEO) satellite technologies that would
-allow satellites to operate in orbits closer to Earth and deliver
+• Very low earth orbit (VLEO) satellite technologies that would
+allow satellites to operate in orbits closer to earth and deliver
 differentiated capabilities.
 
 • Quantum key distribution (QKD) satellite solutions that would
