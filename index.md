@@ -15,7 +15,7 @@ sections:
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: /singapore-space-ecosystems/highlights/
   - resources:
-      title: Latest Posts
+      title: Latest News
       button: All posts
   - infopic:
       title: Resources for researchers and companies
@@ -25,5 +25,3 @@ sections:
       url: /resources/Funding-Opportunities/STDP/
       subtitle: Funding Opportunities
 ---
-
-
