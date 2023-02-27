@@ -16,7 +16,7 @@ sections:
           url: /singapore-space-ecosystems/highlights/
   - resources:
       title: Latest News
-      button: All posts
+      button: All News
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text
