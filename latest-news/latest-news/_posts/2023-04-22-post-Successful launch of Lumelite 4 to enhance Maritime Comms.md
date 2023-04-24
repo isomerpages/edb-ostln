@@ -8,7 +8,6 @@ image: /images/Social Media Photos/image pslv.jpg
 ---
 # Congratulations to NUS and A\*STAR on the successful launch of Lumelite-4
 
-Press Release taken from: https://news.nus.edu.sg/successful-launch-of-lumelite-4-to-enhance-maritime-communications/
 
 ![](/images/Social%20Media%20Photos/1920_photo1-26.jpg)Prof Low Kay Soon (right), Director of Satellite Technology And Research Centre (STAR) at NUS, and Dr Francois Chin (left), Division Head, Satellite, Aviation & Maritime, A\*STAR's Institute for Infocomm Research, with a model of Lumelite-4
 
@@ -61,3 +60,4 @@ One of these students is Kelvin Ng, who joined STAR in 2019 after completing his
 
 Another student is Marcus Tay, who graduated with a Mechanical Engineering degree, and has been a Research Engineer with STAR since 2022. He said, “Being involved in this project has been an eye-opener. It’s simply exhilarating to witness our satellite being deployed in space. Being able to apply my knowledge and skills in a real-world product and make a tangible impact is every engineer’s dream come true.”
 
+Press Release taken from: https://news.nus.edu.sg/successful-launch-of-lumelite-4-to-enhance-maritime-communications/
