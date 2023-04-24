@@ -8,7 +8,7 @@ image: /images/Social Media Photos/image pslv.jpg
 ---
 ![](/images/Social%20Media%20Photos/image%20pslv.jpg) ISRO's PSLV C55 rocket carried TeLEOS-2 as primary satellite and Lumelite-4 as a co-passenger satellite, deploying both satellites in the Low Earth Orbit. Photo: Twitter/ISRO
 
-
+![](/images/teleos%202.jpg)
 _TeLEOS-2 possesses significant advancements in imaging capability_
 
 _**Singapore, 22 April 2023**_ – ST Engineering today announced that it has launched its first polarimetric synthetic aperture radar (PolSAR) satellite, TeLEOS-2. Developed in partnership with Singapore’s Defence Science and Technology Agency (on behalf of Government of Singapore), TeLEOS-2 features a made-in-Singapore SAR payload and is able to capture both day and night images under all-weather conditions in high resolutions, with full polarimetry for a wider range of satellite data applications. This will enhance ST Engineering’s commercial satellite imagery solutions, providing multi-modal and high responsiveness features to its customers.
