@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: /images/Social Media Photos/image pslv.jpg
 ---
+# Congratulations to DSTA and ST Engineering on the successful launch of TeLEOS-2
 ![](/images/Social%20Media%20Photos/image%20pslv.jpg) ISRO's PSLV C55 rocket carried TeLEOS-2 as primary satellite and Lumelite-4 as a co-passenger satellite, deploying both satellites in the Low Earth Orbit. Photo: Twitter/ISRO
 
 ![](/images/teleos%202.jpg)
