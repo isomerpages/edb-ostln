@@ -13,6 +13,7 @@ sections:
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
           url: /singapore-space-ecosystems/highlights/
+      background: /images/ostin-hero-gif-3.gif
   - resources:
       title: Latest News
       button: All News
