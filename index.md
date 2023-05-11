@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Office for Space Technology & Industry
       subtitle: Singapore's National Space Office
-      background: /images/ostin-hero-gif 2.gif
       key_highlights:
         - title: Singapore's Space Highlights
           description: Check out the achievements of the Space ecosystem here in Singapore!
