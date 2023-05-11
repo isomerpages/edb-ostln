@@ -3,7 +3,7 @@ url: https://www.space.gov.sg
 favicon: /images/OSTIn small logo.jpg
 colors:
   primary-color: "#132141"
-  secondary-color: "#49759a"
+  secondary-color: "#132141"
   media-colors:
     - title: media-color-one
       color: "#006298"
