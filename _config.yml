@@ -2,7 +2,7 @@ title: The Office for Space Technology & Industry
 url: https://www.space.gov.sg
 favicon: /images/OSTIn small logo.jpg
 colors:
-  primary-color: "#006298"
+  primary-color: "#132141"
   secondary-color: "#49759a"
   media-colors:
     - title: media-color-one
@@ -57,3 +57,4 @@ shareicon: /images/OSTIn.jpg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
