@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Space Journey V2.md
       - Our Vision & Mission.md
+      - Our Space Journey V2.md
       - Our Space Journey.md
       - Our Team.md
       - Our Logo.md
