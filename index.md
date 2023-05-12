@@ -22,6 +22,6 @@ sections:
       alt: Image alt text
       image: /images/We can help.png
       button: Find out how OSTIN can help
-      url: /resources/Funding-Opportunities/STDP/
+      url: /resources/grants-and-incentives/
       subtitle: Funding Opportunities
 ---
