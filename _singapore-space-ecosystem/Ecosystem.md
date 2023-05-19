@@ -14,3 +14,8 @@ The rapid growth of our space ecosystem can be attributed to some of the advanta
 - Culture that embraces innovation, poised to take advantage of or create the next disruptive technology
 
 If you are an investor or company looking to set up business in Singapore and would like to find out more, please feel free to contact us [here](/contact-us/).
+
+Join us and be part of Singapore's growing space ecosystem.
+
+![](/images/Space%20Ecosystem%20Highlight%202.png)
+
