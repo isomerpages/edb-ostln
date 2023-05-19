@@ -11,7 +11,7 @@ sections:
       subtitle: Singapore's National Space Office
       key_highlights:
         - title: Singapore's Space Highlights
-          description: Achievements of the Singapore Space Ecosystem
+          description: Our space journey
           url: /sg-space-highlights/
         - title: Grants & initiatives
           description: Our incentives and schemes
