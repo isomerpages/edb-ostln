@@ -16,6 +16,9 @@ sections:
         - title: Grants & initiatives
           description: Learn about the incentives and schemes available!
           url: /resources/grants-and-incentives/
+        - title: our Industry partners
+          description: Discover and connect with us!
+          url: ""
       background: /images/ostin-hero-gif.gif
   - resources:
       title: Latest News
