@@ -14,7 +14,7 @@ sections:
           description: Achievements of the Singapore Space Ecosystem
           url: /singapore-space-ecosystems/highlights/
         - title: Grants & initiatives
-          description: Learn about the incentives and schemes available
+          description: Our incentives and schemes
           url: /resources/grants-and-incentives/
         - title: our Industry partners
           description: Discover and connect with us
