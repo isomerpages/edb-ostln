@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Singapore's Space Highlights
           description: Achievements of the Singapore Space Ecosystem
-          url: /singapore-space-ecosystems/highlights/
+          url: /sg-space-highlights/
         - title: Grants & initiatives
           description: Our incentives and schemes
           url: /resources/grants-and-incentives/
