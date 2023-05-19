@@ -18,7 +18,7 @@ sections:
           url: /resources/grants-and-incentives/
         - title: our Industry partners
           description: Discover and connect with us
-          url: ""
+          url: /singapore-space-ecosystem/directory/
       background: /images/ostin-hero-gif.gif
   - infobar:
       title: Singapore Space Ecosystem
