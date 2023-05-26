@@ -1,5 +1,5 @@
 collections:
-  resources:
+  grants-and-incentives:
     output: true
     order:
       - Space Technology Development Programme (STDP).md
