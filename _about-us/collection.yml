@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Socials.md
       - Our Vision & Mission.md
       - Our Space Journey.md
       - Our Team.md
       - Our Logo.md
+      - Our Socials.md
