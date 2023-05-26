@@ -2,6 +2,6 @@ collections:
   grants-and-incentives:
     output: true
     order:
-      - Space Technology Development Programme (STDP).md
       - Grants and Incentives.md
+      - Space Technology Development Programme (STDP).md
       - STEM Outreach.md
