@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Ecosystem.md
-      - Download Brochure.md
       - Singapore Space Directory.md
