@@ -18,11 +18,6 @@ contacts:
   - content:
       - phone: +65 6972 7842
       - email: ostin@edb.gov.sg
-      - other: https://www.linkedin.com/company/ostinsingapore/
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
       - other: www.linkedin.com/company/ostinsingapore/
-    title: Socials
+    title: General Enquiries & Feedback
 ---
