@@ -1,5 +1,0 @@
-collections:
-  stem-outreach:
-    output: true
-    order:
-      - STEM Outreach.md
