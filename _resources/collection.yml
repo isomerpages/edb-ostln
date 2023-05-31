@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Latest News/CAAS, OSTIn, SITA and Startical signs MOU.md
       - Latest News/.keep
