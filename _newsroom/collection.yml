@@ -2,5 +2,6 @@ collections:
   newsroom:
     output: true
     order:
+      - National Statements.md
       - OSTIn The News.md
       - Speeches.md
