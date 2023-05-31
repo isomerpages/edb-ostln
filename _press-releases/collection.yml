@@ -2,6 +2,5 @@ collections:
   press-releases:
     output: true
     order:
-      - Latest News.md
       - OSTIn The News.md
       - Speeches.md
