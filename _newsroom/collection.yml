@@ -1,5 +1,5 @@
 collections:
-  press-releases:
+  newsroom:
     output: true
     order:
       - OSTIn The News.md
