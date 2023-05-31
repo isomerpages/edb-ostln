@@ -22,7 +22,7 @@ sections:
       background: /images/ostin-hero-gif-new.gif
   - infobar:
       title: Singapore Space Ecosystem
-      subtitle: be part of
+      subtitle: be part of the
       description: With passionate people and a heart for space, our industry strives
         to achieve success and broaden our horizons towards a better future.
       button: discover
