@@ -5,4 +5,4 @@ description: ""
 ---
 | Date | Description | 
 | -------- | -------- | 
-|01 Jun 2023|[National Statement by Singapore 66th Session of the Committee on the Peaceful Uses of Outer Space, Vienna, Austria, 31  May - 9 June 2023](https://www.pmo.gov.sg/Newsroom/SM-Teo-Chee-Hean-Global-Space-Technology-Convention) *LINK TO https:// /latest-news/latest-news/permalink/
+|01 Jun 2023|[NATIONAL STATEMENT BY SINGAPORE 66TH SESSION OF THE COMMITTEE ON THE PEACEFUL USES OF OUTER SPACE VIENNA, AUSTRIA, 31 MAY – 9 JUNE 2023](/latest-news/latest-news/permalink/)
