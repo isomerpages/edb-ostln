@@ -1,7 +1,7 @@
 ---
 title: National Statement by Singapore 66th Session of the Committee on the
   Peaceful Uses of Outer Space
-permalink: /latest-news/latest-news/permalink/
+permalink: /latest-news/latest-news/permalink/copuos-2023/
 date: 2023-06-01
 layout: post
 description: ""

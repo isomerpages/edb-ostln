@@ -1,9 +1,10 @@
 ---
 title: 2nd Thematic Open Grant Call
-permalink: /Resources/latest-news/grantcall2
+permalink: /resources/latest-news/grantcall2/
 date: 2022-07-15
 layout: post
 description: ""
+image: ""
 ---
 ![Open Grant Call](/images/Social%20Media%20Photos/Grant%20Call.png)
 

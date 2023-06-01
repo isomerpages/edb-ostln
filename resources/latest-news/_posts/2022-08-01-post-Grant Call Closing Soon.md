@@ -1,9 +1,10 @@
 ---
 title: Grant Call Closing Soon
-permalink: /Resources/latest-news/grantcallclosing
+permalink: /resources/latest-news/grantcallclosing/
 date: 2022-08-01
 layout: post
 description: ""
+image: ""
 ---
 ![Grant Call Closing](/images/Social%20Media%20Photos/Grant%20Call%20Closing.png)
 
