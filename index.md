@@ -11,9 +11,22 @@ sections:
       subtitle: Singapore's National Space Office
       key_highlights:
         - title: Singapore's Space Highlights
-          description: Check out the achievements of the Space ecosystem here in Singapore!
-          url: /singapore-space-ecosystems/highlights/
-      background: /images/ostin-hero-gif.gif
+          description: Our space journey
+          url: /sg-space-highlights/
+        - title: Grants & initiatives
+          description: Our incentives and schemes
+          url: /resources/grants-and-incentives/
+        - title: our Industry partners
+          description: Discover and connect with us
+          url: /singapore-space-ecosystem/directory/
+      background: /images/ostin-hero-gif-new.gif
+  - infobar:
+      title: Singapore Space Ecosystem
+      subtitle: be part of our
+      description: With passionate people and a heart for space, our industry strives
+        to achieve success and broaden our horizons towards a better future.
+      button: discover
+      url: /singapore-space-ecosystems/highlights/
   - resources:
       title: Latest News
       button: All News

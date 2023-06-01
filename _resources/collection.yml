@@ -1,7 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - Space Technology Development Programme (STDP).md
-      - Grants and Incentives.md
-      - STEM Outreach.md

@@ -1,6 +1,0 @@
-collections:
-  press-releases:
-    output: true
-    order:
-      - OSTIn The News.md
-      - Speeches.md

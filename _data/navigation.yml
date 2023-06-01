@@ -4,7 +4,13 @@ links:
     collection: about-us
   - title: Singapore Space Ecosystem
     collection: singapore-space-ecosystem
+  - title: Grants And Incentives
+    collection: grants-and-incentives
+  - title: Newsroom
+    collection: newsroom
+  - title: STEM Outreach
+    url: /stem-outreach/permalink/
   - title: Resources
-    collection: resources
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
