@@ -8,6 +8,8 @@ description: ""
 In 2013, the Singapore Economic Development Board (EDB), together with other participating ministries and agencies, established the Office for Space Technology and Industry (OSTIn) in order to capture the economic opportunities and build a thriving space industry for Singapore. 
 
 In 2020, OSTIn received an expanded mandate to serve as Singapore's national space office to develop our space industry, space technology and capability, space policy and regulations, space talent and workforce, and to grow international partnerships and strengthen global space governance. 
+
+![Deputy Executive Director Ronald Tong at the Regional forum discussion COSPAR](/images/Social%20Media%20Photos/ronald%20@asia-pacific%20regional%20forum%20discussion.jpeg)
  
 To grow a globally competitive space industry in Singapore, OSTIn collaborates closely with [local](/singapore-space-ecosystems/highlights) and international satellite industry players to realise their business and innovation initiatives for the Asian markets. With a strong focus in driving innovation, OSTIn also works closely with partners within and beyond the Singapore’s space ecosystem to develop key research capabilities and talent to enable sustainable growth of the satellite industry in Singapore. 
 
