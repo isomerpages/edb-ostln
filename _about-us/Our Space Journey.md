@@ -11,6 +11,10 @@ In 2020, OSTIn received an expanded mandate to serve as Singapore's national spa
  
 To grow a globally competitive space industry in Singapore, OSTIn collaborates closely with [local](/singapore-space-ecosystems/highlights) and international satellite industry players to realise their business and innovation initiatives for the Asian markets. With a strong focus in driving innovation, OSTIn also works closely with partners within and beyond the Singapore’s space ecosystem to develop key research capabilities and talent to enable sustainable growth of the satellite industry in Singapore. 
 
+![65th COPUOS](/images/Social%20Media%20Photos/65th%20COPUOS.png)
+
 In addition, OSTIn operates as the national focal point to plan for all civil space matters in Singapore. As a responsible actor in space, Singapore is committed to the peaceful and sustainable use of space resources, and is a member of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). To that end, OSTIn aims to foster an enabling regulatory environment for Singapore’s space activities.
+
+![visit to NUS high school of math and science](/images/1664800645598.jpg)
 
 Supporting the development of our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click [here](/resources/stem-outreach) to find out more about our outreach efforts!
