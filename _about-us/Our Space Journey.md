@@ -4,7 +4,7 @@ permalink: /about-space-journey/
 description: ""
 ---
 # OSTIn's Journey
-
+![OSTIn's Space Journey Timeline Infographic](/images/timeline.jpg)
 In 2013, the Singapore Economic Development Board (EDB), together with other participating ministries and agencies, established the Office for Space Technology and Industry (OSTIn) in order to capture the economic opportunities and build a thriving space industry for Singapore. 
 
 In 2020, OSTIn received an expanded mandate to serve as Singapore's national space office to develop our space industry, space technology and capability, space policy and regulations, space talent and workforce, and to grow international partnerships and strengthen global space governance. 
