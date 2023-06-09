@@ -20,3 +20,4 @@ In addition, OSTIn operates as the national focal point to plan for all civil sp
 ![visit to NUS high school of math and science](/images/1664800645598.jpg)
 
 Supporting the development of our students through space-based STEM outreach program creates a steady pipeline of talent entering the future workforce. OSTIn works with various organisations to support and curate programs to engage the students of all age groups. Click [here](/resources/stem-outreach) to find out more about our outreach efforts!
+
