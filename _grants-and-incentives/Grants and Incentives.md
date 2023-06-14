@@ -7,5 +7,4 @@ Learn about the different types of incentives and schemes available to help bu
 
 - [EDB Incentives](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
 - [ESG Grants](https://www.enterprisesg.gov.sg/financial-assistance/grants)
-![EDB Singapore Logo](/images/480x300%20edb%20logo%20new.png)
-![Enterprise Singapore Logo](/images/480x300%20esg%20logo.jpg)
+![EDB Singapore and Enterprise Singapore logos](/images/Logos/600x192%20edb%20&%20esg%20logo.png)
