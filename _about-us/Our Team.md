@@ -3,10 +3,6 @@ title: Our Team
 permalink: /about-us/orgchart/
 description: ""
 ---
-|  | Name, Title ||
-| -------- | -------- | -------- |
-||Mr. David Tan, Executive Director|
-||Mr. Ronald Tong, Deputy Executive Director|
-||Dr. Lim Yuan Liang, Director (Technology)|
-||Mr. Nicolas Ang, Deputy Director (Strategy and Policy & Partnerships)|
-||Ms. Jacinth Lau, Deputy Director (Industry)|
+##### Meet the team behind OSTIn who spearheads the space innovation and ecosystem in Singapore.
+
+![Exec. Director David Tan, Dep. ED Ronald Tong, Team leads, Dr.Lim, Ms. Jacinth, and Mr. Nicolas](/images/globe%20with%20logo%20team%20banner.png)
