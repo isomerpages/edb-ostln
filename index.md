@@ -19,7 +19,7 @@ sections:
         - title: our Industry partners
           description: Discover and connect with us
           url: /singapore-space-ecosystem/directory/
-      background: /images/ostin-hero-gif-new.gif
+      background: /images/Logos/ostin logo new size.png
   - infobar:
       title: Singapore Space Ecosystem
       subtitle: be part of our
