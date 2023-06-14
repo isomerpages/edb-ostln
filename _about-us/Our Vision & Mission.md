@@ -3,6 +3,7 @@ title: Our Vision & Mission
 permalink: /about-us/visionandmission/
 description: ""
 ---
+![OSTIn Hero Banner](/images/OSTIn.jpg)
 # **Our Vision**
 To be a global space leader that fuels growth, fulfills dreams, and secures a sustainable future. 
 
