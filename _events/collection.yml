@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - Latest and Past Events.md
+    order: []
