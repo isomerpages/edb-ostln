@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Singapore 2023 Space Events.md
       - National Statements.md
       - OSTIn The News.md
       - Speeches.md
