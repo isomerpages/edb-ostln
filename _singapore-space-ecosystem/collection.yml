@@ -2,6 +2,6 @@ collections:
   singapore-space-ecosystem:
     output: true
     order:
-      - STEM Outreach.md
       - Ecosystem.md
       - Singapore Space Directory.md
+      - STEM Outreach.md
