@@ -13,6 +13,6 @@ links:
   - title: Resources
     resource_room: true
   - title: Gallery
-    collection: photos
+    collection: gallery
   - title: Contact Us
     url: /contact-us/
