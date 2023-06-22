@@ -12,5 +12,7 @@ links:
     url: /stem-outreach/permalink/
   - title: Resources
     resource_room: true
+  - title: Gallery
+    collection: photos
   - title: Contact Us
     url: /contact-us/
