@@ -1,5 +1,5 @@
 collections:
-  photos:
+  gallery:
     output: true
     order:
       - OSTIn Photos.md
