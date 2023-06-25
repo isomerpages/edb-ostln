@@ -3,7 +3,7 @@ title: Successful launch of Lumelite 4 to enhance Maritime Communications
 permalink: /latest-news/latest-news/permalink/lumelite-4/
 date: 2023-04-22
 layout: post
-description: ""
+description: Successful launch of Lumelite 4 to enhance Maritime Communications
 image: /images/Social Media Photos/image pslv.jpg
 ---
 # Congratulations to NUS and A\*STAR on the successful launch of Lumelite-4

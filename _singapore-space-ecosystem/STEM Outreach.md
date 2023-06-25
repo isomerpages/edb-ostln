@@ -1,7 +1,7 @@
 ---
 title: STEM Outreach
-permalink: /stem-outreach/permalink/
-description: ""
+permalink: /singapore-space-ecosystem/permalink/
+description: STEM Outreach
 ---
 A vibrant and successful space ecosystem requires a talented and capable workforce to support the industry. As Singapore's national space office, one of our objectives is to support the development of Singapore’s future workforce through space-based STEM outreach.
 

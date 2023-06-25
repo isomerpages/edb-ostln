@@ -3,7 +3,7 @@ title: Grant Call Closing Soon
 permalink: /resources/latest-news/grantcallclosing/
 date: 2022-08-01
 layout: post
-description: ""
+description: Grant Call Closing Soon
 image: ""
 ---
 ![Grant Call Closing](/images/Social%20Media%20Photos/Grant%20Call%20Closing.png)

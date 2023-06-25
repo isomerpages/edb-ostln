@@ -3,7 +3,7 @@ title: TeLEOS 2 Launched Successfully on 22 Apr 2023
 permalink: /latest-news/latest-news/permalink/teleos-2/
 date: 2023-04-22
 layout: post
-description: ""
+description: TeLEOS 2 Launched Successfully on 22 Apr 2023
 image: /images/Social Media Photos/image pslv.jpg
 ---
 # Congratulations to DSTA and ST Engineering on the successful launch of TeLEOS-2

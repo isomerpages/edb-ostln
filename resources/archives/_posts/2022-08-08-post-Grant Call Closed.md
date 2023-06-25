@@ -1,9 +1,10 @@
 ---
 title: Grant Call Closed
-permalink: /Resources/Category/permalink
+permalink: /resources/category/permalink/
 date: 2022-08-08
 layout: post
-description: ""
+description: Grant Call Closed
+image: ""
 ---
 The latest grant call is now closed. We thank all who have submitted their whitepaper for evaluations.
 

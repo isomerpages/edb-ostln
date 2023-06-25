@@ -1,9 +1,9 @@
 ---
 title: Celebrating 2nd Artemis Accords Anniversary
-permalink: /Resources/latest-news/AA-anniversary-second/
+permalink: /resources/latest-news/aa-anniversary-second/
 date: 2022-10-13
 layout: post
-description: ""
+description: Celebrating 2nd Artemis Accords Anniversary
 image: ""
 ---
 Exactly 2 years ago, the [#ArtemisAccords](https://www.linkedin.com/feed/hashtag/?keywords=artemisaccords&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6986183111722061824) was launched with 8 nations to promote peaceful, sustainable exploration of outer space.

@@ -3,7 +3,7 @@ title: CAAS, OSTIn, SITA and Startical signs MOU
 permalink: /resources/latest-news/vhfmou/
 date: 2022-06-21
 layout: post
-description: ""
+description: CAAS, OSTIn, SITA and Startical signs MOU
 image: ""
 ---
 The [Civil Aviation Authority of Singapore (CAAS)](https://www.linkedin.com/in/ACoAADa9R2sB35XOYSFhsRve8sOsg-oHolVj244), OSTIn, [SITA](https://www.linkedin.com/company/sita/) and [Startical](https://www.linkedin.com/company/startical/) have signed a Memorandum of Understanding (MOU) to perform a proof-of-concept on the use of [#space](https://www.linkedin.com/feed/hashtag/?keywords=space&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6945356157586653184)\-based Very High Frequency (VHF) voice for communication between pilots and air traffic controllers for air traffic management [#ATM](https://www.linkedin.com/feed/hashtag/?keywords=atm&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6945356157586653184).  

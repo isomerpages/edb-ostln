@@ -3,7 +3,7 @@ title: 2nd Thematic Open Grant Call
 permalink: /resources/latest-news/grantcall2/
 date: 2022-07-15
 layout: post
-description: ""
+description: 2nd Thematic Open Grant Call
 image: ""
 ---
 ![Open Grant Call](/images/Social%20Media%20Photos/Grant%20Call.png)
