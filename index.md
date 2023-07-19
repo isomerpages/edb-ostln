@@ -37,4 +37,9 @@ sections:
       button: Find out how OSTIN can help
       url: /resources/grants-and-incentives/
       subtitle: Funding Opportunities
+  - infobar:
+      title: Spectrum Requirements
+      subtitle: What you need to know
+      button: Find out more
+      url: /spectrum-requirements/permalink/
 ---
