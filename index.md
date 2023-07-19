@@ -30,6 +30,11 @@ sections:
   - resources:
       title: Latest News
       button: All News
+  - infobar:
+      title: Spectrum Requirements
+      subtitle: What you need to know
+      button: Find out more
+      url: /spectrum-requirements/permalink/
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text
@@ -37,9 +42,4 @@ sections:
       button: Find out how OSTIN can help
       url: /resources/grants-and-incentives/
       subtitle: Funding Opportunities
-  - infobar:
-      title: Spectrum Requirements
-      subtitle: What you need to know
-      button: Find out more
-      url: /spectrum-requirements/permalink/
 ---
