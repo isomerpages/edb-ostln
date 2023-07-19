@@ -1,0 +1,4 @@
+collections:
+  spectrum-requirements:
+    output: true
+    order: []
