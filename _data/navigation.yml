@@ -10,7 +10,5 @@ links:
     collection: newsroom
   - title: Resources
     resource_room: true
-  - title: Gallery
-    collection: gallery
   - title: Contact Us
     url: /contact-us/
