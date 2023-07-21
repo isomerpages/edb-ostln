@@ -1,7 +1,7 @@
 ---
 title: National Statements
 permalink: /newsroom/permalink/
-description: ""
+description: OSTIn National Statements
 ---
 | Date | Description | 
 | -------- | -------- | 

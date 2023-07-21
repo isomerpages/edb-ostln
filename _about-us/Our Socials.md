@@ -1,7 +1,7 @@
 ---
 title: Our Socials
 permalink: /about-us/permalink/
-description: ""
+description: OSTIn Social Media
 ---
 Follow us on our social media channels for the latest Space news and highlights from Singapore and beyond:
 

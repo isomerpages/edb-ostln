@@ -1,7 +1,7 @@
 ---
 title: Setting up a business in SG
 permalink: /resources/stem-outreach/
-description: ""
+description: Setting up a business in SG
 ---
 As one of the world’s easiest places to do business, setting up in Singapore is seamless and efficient whether you are a corporate or individual investor.
 

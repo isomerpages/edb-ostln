@@ -1,7 +1,7 @@
 ---
 title: Speeches
 permalink: /press-releases/speeches/
-description: ""
+description: Speeches by OSTIn
 ---
 | Date | Description | 
 | -------- | -------- | 

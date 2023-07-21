@@ -1,7 +1,7 @@
 ---
 title: Our Logo
 permalink: /about-us/logo/
-description: ""
+description: OSTIn Logo
 ---
 ![Office for Space Technology and Industry, Singapore Logo](/images/Logos/ostin%20logo%20(navy)%203.png)
 The OSTIn logo is inspired by the Singapore flag, which has five stars depicting Singapore’s ideals of democracy, peace, progress, justice and equality and a crescent moon that represents a young nation on the ascendant. 

@@ -1,0 +1,5 @@
+collections:
+  spectrum-requirements:
+    output: true
+    order:
+      - IMDA Spectrum Requirements.md

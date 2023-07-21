@@ -1,7 +1,7 @@
 ---
 title: Our Vision & Mission
 permalink: /about-us/visionandmission/
-description: ""
+description: Vision and Mission of OSTIn
 ---
 ![OSTIn Hero Banner](/images/OSTIn.jpg)
 # **Our Vision**

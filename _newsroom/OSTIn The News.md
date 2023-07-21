@@ -1,7 +1,7 @@
 ---
 title: OSTIn The News
 permalink: /press-releases/news/
-description: ""
+description: OSTIn In The News
 ---
 | Date | Description | 
 | -------- | -------- | 

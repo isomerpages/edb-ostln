@@ -3,7 +3,7 @@ title: Singapore's Space Highlights
 permalink: /sg-space-highlights/
 date: 2022-02-05
 layout: post
-description: ""
+description: Singapore's Space Highlights
 ---
 "The space sector has untold potential and possibilities. Many space technologies have found applications here on earth, like the GPS in our smartphones and cars. 
 

@@ -1,7 +1,7 @@
 ---
 title: Grants and Incentives
 permalink: /resources/grants-and-incentives/
-description: ""
+description: "Space Grants and Incentives "
 ---
 Learn about the different types of incentives and schemes available to help businesses via the link below: 
 
