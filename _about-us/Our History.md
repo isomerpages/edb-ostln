@@ -4,7 +4,7 @@ permalink: /about-our-history/
 description: OSTIn Space History
 ---
 # OSTIn's Space Journey
-# 
+
 ![OSTIn's History Timeline Infographic.jpg](/images/timeline%20(as%20of%2020%20july).jpg)
 
 In 2013, the Singapore Economic Development Board (EDB), together with other participating ministries and agencies, established the Office for Space Technology and Industry (OSTIn) in order to capture the economic opportunities and build a thriving space industry for Singapore. 
