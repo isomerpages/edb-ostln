@@ -1,0 +1,4 @@
+collections:
+  info-room:
+    output: true
+    order: []
