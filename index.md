@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: Resources for researchers and companies
       alt: Image alt text
-      image: /images/achievements.jpg
+      image: /images/homepage visual-achievements.png
       button: Find out how OSTIN can help
       url: /resources/grants-and-incentives/
       subtitle: Funding Opportunities
