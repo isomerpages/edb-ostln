@@ -8,8 +8,10 @@ description: Another milestone for Singapore’s space sector with 7 Singapore
   Satellites launched in India
 image: ""
 ---
-UPDATED
-30 JUL 2023, 10:12 PM SGT
+![ISRO 7 Satellite Launch](/images/isro%207%20satellite%20launch.png)
+The satellites took off at 6.31am local time on board a Polar Satellite Launch Vehicle from the Satish Dhawan Space Centre in South India. Photo: Indian Space Research Organisation/Facebook
+
+UPDATED 30 JUL 2023, 10:12 PM SGT
 
 PUBLISHED BY STRAITS TIMES - Debarshi Dasgupta (India Correspondent)
 
