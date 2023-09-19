@@ -17,4 +17,4 @@ If you are an investor or company looking to set up business in Singapore and wo
 
 Join us and be part of Singapore's growing space ecosystem.
 
-![](/images/Space%20Ecosystem%20Highlight%202.png)
+![](/images/space%20ecosystem%20highlight%202.png)
