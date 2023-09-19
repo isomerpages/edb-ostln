@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://edb-ostIn-staging.netlify.app
-prod: https://edb-ostIn-prod.netlify.app
+staging: https://staging.d1kk6pd5jytec1.amplifyapp.com/
+prod: https://master.d1kk6pd5jytec1.amplifyapp.com/
 is_government: true
 shareicon: /images/ostin.jpg
 facebook-pixel: ""
