@@ -5,7 +5,7 @@ date: 2023-02-15
 layout: post
 description: Mangata Networks announces new Maritime Global Headquarters and
   Systems Infrastructure R&D Centre in Singapore
-image: /images/Mangata.png
+image: /images/mangata.png
 ---
 ![](/images/Mangata.png)
 

@@ -4,10 +4,10 @@ permalink: /latest-news/latest-news/permalink/teleos-2/
 date: 2023-04-22
 layout: post
 description: TeLEOS 2 Launched Successfully on 22 Apr 2023
-image: /images/Social Media Photos/image pslv.jpg
+image: /images/social media photos/image pslv.jpg
 ---
 # Congratulations to DSTA and ST Engineering on the successful launch of TeLEOS-2
-![](/images/Social%20Media%20Photos/image%20pslv.jpg) ISRO's PSLV C55 rocket carried TeLEOS-2 as primary satellite and Lumelite-4 as a co-passenger satellite, deploying both satellites in the Low Earth Orbit. Photo: Twitter/ISRO
+![](/images/social%20media%20photos/image%20pslv.jpg) ISRO's PSLV C55 rocket carried TeLEOS-2 as primary satellite and Lumelite-4 as a co-passenger satellite, deploying both satellites in the Low Earth Orbit. Photo: Twitter/ISRO
 
 ![](/images/teleos%202.jpg)
 _TeLEOS-2 possesses significant advancements in imaging capability_

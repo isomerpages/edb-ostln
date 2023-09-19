@@ -14,4 +14,4 @@ Representing OSTIn at the signing was OSTIn Executive Director [David Tan](http
   
 More information on the MOU can be found at: [https://lnkd.in/dgJ8J--T](https://lnkd.in/dgJ8J--T)
 
-![CAASMOU](/images/Social%20Media%20Photos/CAAS%20OSTIn%20MOU.png)
+![CAASMOU](/images/social%20media%20photos/caas%20ostin%20mou.png)

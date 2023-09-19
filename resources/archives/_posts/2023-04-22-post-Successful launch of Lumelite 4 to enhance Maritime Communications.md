@@ -4,12 +4,12 @@ permalink: /latest-news/latest-news/permalink/lumelite-4/
 date: 2023-04-22
 layout: post
 description: Successful launch of Lumelite 4 to enhance Maritime Communications
-image: /images/Social Media Photos/image pslv.jpg
+image: /images/social media photos/image pslv.jpg
 ---
 # Congratulations to NUS and A\*STAR on the successful launch of Lumelite-4
 
 
-![](/images/Social%20Media%20Photos/1920_photo1-26.jpg)Prof Low Kay Soon (right), Director of Satellite Technology And Research Centre (STAR) at NUS, and Dr Francois Chin (left), Division Head, Satellite, Aviation & Maritime, A\*STAR's Institute for Infocomm Research, with a model of Lumelite-4
+![](/images/social%20media%20photos/1920_photo1-26.jpg)Prof Low Kay Soon (right), Director of Satellite Technology And Research Centre (STAR) at NUS, and Dr Francois Chin (left), Division Head, Satellite, Aviation & Maritime, A\*STAR's Institute for Infocomm Research, with a model of Lumelite-4
 
 A microsatellite for maritime communications developed by the [Satellite Technology And Research Centre](https://www.ece.nus.edu.sg/star/) (STAR) under the [National University of Singapore’s College of Design and Engineering](https://cde.nus.edu.sg/) (NUS CDE), and A\*STAR’s Institute for Infocomm Research (I2R), has been successfully launched from the Satish Dhawan Space Centre in Sriharikotta, India, on Saturday, 22 April 2023 at 4.50pm (Singapore time).
 

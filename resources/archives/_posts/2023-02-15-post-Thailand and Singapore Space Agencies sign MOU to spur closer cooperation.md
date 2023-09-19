@@ -4,10 +4,10 @@ permalink: /latest-news/latest-news/thailand-sg-space-cooperation/
 date: 2023-02-15
 layout: post
 description: Thailand and Singapore Space Agencies sign MOU to spur closer cooperation
-image: /images/GITSDA OSTIn MOU.jpg
+image: /images/gitsda ostin mou.jpg
 ---
 
-![](/images/GITSDA%20OSTIn%20MOU.jpg)
+![](/images/gitsda%20ostin%20mou.jpg)
 
 15 Feb 2023, Singapore - The Office for Space Technology &amp; Industry, Singapore (OSTIn) and the Geo-
 Informatics and Space Technology Development Agency (GISTDA) of Thailand
