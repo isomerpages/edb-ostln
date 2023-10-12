@@ -6,7 +6,7 @@ layout: post
 description: 2nd Thematic Open Grant Call
 image: ""
 ---
-![Open Grant Call](/images/Social%20Media%20Photos/Grant%20Call.png)
+![Open Grant Call](/images/social%20media%20photos/grant%20call.png)
 
 📣 Grant Call Launched! 📣  
   

@@ -13,4 +13,4 @@ I hope future breakthroughs will one day help us solve pressing challenges like 
 
 -Prime Minister Lee Hsien Loong
 
-![Ecosystem Highlight 2](/images/Space%20Ecosystem%20Highlight%202.png)
+![Ecosystem Highlight 2](/images/space%20ecosystem%20highlight%202.png)

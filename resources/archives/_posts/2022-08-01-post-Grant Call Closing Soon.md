@@ -6,7 +6,7 @@ layout: post
 description: Grant Call Closing Soon
 image: ""
 ---
-![Grant Call Closing](/images/Social%20Media%20Photos/Grant%20Call%20Closing.png)
+![Grant Call Closing](/images/social%20media%20photos/grant%20call%20closing.png)
 
 \*\*Grant call closing soon!\*\*  
   

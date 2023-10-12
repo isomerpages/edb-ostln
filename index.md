@@ -2,7 +2,7 @@
 layout: homepage
 title: The Office for Space Technology & Industry
 description: Singapore's National Space Office
-image: /images/OSTIn.jpg
+image: /images/ostin.jpg
 permalink: /
 notification: ""
 sections:
