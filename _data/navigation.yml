@@ -1,0 +1,19 @@
+logo: /images/logos/ostin logo new size.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Singapore Space Ecosystem
+    collection: singapore-space-ecosystem
+  - title: Grants And Incentives
+    collection: grants-and-incentives
+  - title: Newsroom
+    collection: newsroom
+  - title: Resources
+    resource_room: true
+  - title: Info Room
+    url: /info-room/
+    sublinks:
+      - title: Spectrum Requirements
+        url: /spectrum-requirements/permalink/
+  - title: Contact Us
+    url: /contact-us/
