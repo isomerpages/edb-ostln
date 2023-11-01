@@ -5,7 +5,7 @@ description: OSTIn In The News
 ---
 | Date | Description | 
 | -------- | -------- | 
-|1 Nov 2023|[Official visit of Luxembourg Space Agency to SG strengthens bilateral ties](https://www.space.gov.sg/resources/archives/luxembourg-space-agency-strengthens-bilateral/)|
+|1 Nov 2023|[Official visit of Luxembourg Space Agency to SG strengthens bilateral ties](/resources/archives/luxembourg-space-agency-strengthens-bilateral/)|
 |10 Oct 2022|[Singapore can play a role in future Moon missions: Former James Webb telescope director](https://www.straitstimes.com/singapore/singapore-can-play-a-role-in-future-moon-missions-former-james-webb-telescope-director)|
 |21 Jun 2022| [CAAS, OSTIn, SITA and Startical to Trial Satellite Communication Between Pilots and Air Traffic Controllers](https://www.caas.gov.sg/who-we-are/newsroom/Detail/caas-ostin-sita-and-startical-to-trial-satellite-communication-between-pilots-and-air-traffic-controllers)|
 |26 Dec 2019 | [Resolution adopted by the General Assemblyon 13 December 2019 - Admission of Singapore as a member of United Nations Committee on the Peaceful Uses of Outer Space (COPUOS)](https://www.unoosa.org/oosa/en/oosadoc/data/resolutions/2019/general_assembly_74th_session/ares7482.html)|
