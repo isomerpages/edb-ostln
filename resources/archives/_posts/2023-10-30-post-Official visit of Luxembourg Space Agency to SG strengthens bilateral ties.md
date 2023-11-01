@@ -6,7 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-1 Nov 2023, Singapore – The Office for Space Technology & Industry, Singapore (OSTIn) is pleased to announce the successful visit of the Luxembourg Space Agency (LSA) and 12Luxembourgish space entities to Singapore.  
+
+![OSTIn_LSA_MOU](/images/ostin-lsa%20mou.jpg)
+
+1 Nov 2023, Singapore – The Office for Space Technology & Industry, Singapore (OSTIn) is pleased to announce the successful visit of the Luxembourg Space Agency (LSA) and 12 Luxembourgish space entities to Singapore.  
 
 During the visit, the delegation from LSA, led by CEO Marc Serres, engaged in various activities. Highlights included:
 
@@ -16,7 +19,7 @@ This MOU facilitates both parties to further explore collaboration in researc
 
 2. Luxembourg-Singapore Space Forum
 
-OSTIn and LSA also co-organised a Space Forum, which provided valuable networking and pitching opportunities for 24 space entities from both countries. The event featured presentations by both OSTIn and LSA, shedding light on their respective space ecosystems, innovations and collaboration possibilities. The gathering provided an unprecedentedplatform for companies to connect and explore potential partnerships. 
+OSTIn and LSA also co-organised a Space Forum, which provided valuable networking and pitching opportunities for 24 space entities from both countries. The event featured presentations by both OSTIn and LSA, shedding light on their respective space ecosystems, innovations and collaboration possibilities. The gathering provided an unprecedented platform for companies to connect and explore potential partnerships. 
 
 3. Company visits
 
