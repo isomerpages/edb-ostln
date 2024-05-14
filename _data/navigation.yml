@@ -8,12 +8,9 @@ links:
     collection: grants-and-incentives
   - title: Newsroom
     collection: newsroom
+  - title: Info Room
+    collection: info-room
   - title: Resources
     resource_room: true
-  - title: Info Room
-    url: /info-room/
-    sublinks:
-      - title: Spectrum Requirements
-        url: /spectrum-requirements/permalink/
   - title: Contact Us
     url: /contact-us/
