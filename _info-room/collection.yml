@@ -2,5 +2,5 @@ collections:
   info-room:
     output: true
     order:
-      - Guidelines for Singapore Related Space Activities.md
       - IMDA Spectrum Requirements.md
+      - Guidelines for Singapore Related Space Activities.md
