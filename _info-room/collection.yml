@@ -2,4 +2,5 @@ collections:
   info-room:
     output: true
     order:
+      - Registration Guidelines.md
       - IMDA Spectrum Requirements.md
