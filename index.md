@@ -13,7 +13,7 @@ sections:
         - title: Singapore's Space Highlights
           description: Our space journey
           url: /sg-space-highlights/
-        - title: Grants & initiatives
+        - title: Grants & Incentives
           description: Our incentives and schemes
           url: /resources/grants-and-incentives/
         - title: our Industry partners
