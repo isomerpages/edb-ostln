@@ -1,4 +1,5 @@
 collections:
   singapore-space-strategy:
     output: true
-    order: []
+    order:
+      - SG Space Strategy.md
