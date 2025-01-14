@@ -1,0 +1,4 @@
+collections:
+  sg-space-strategy:
+    output: true
+    order: []
