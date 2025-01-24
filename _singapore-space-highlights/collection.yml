@@ -2,4 +2,5 @@ collections:
   singapore-space-highlights:
     output: true
     order:
+      - Singapore's Space Highlights (transfer).md
       - Singapore Space Strategy.md
