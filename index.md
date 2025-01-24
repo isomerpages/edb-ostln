@@ -15,7 +15,7 @@ sections:
           url: /sg-space-highlights/
         - title: Grants & Initiatives
           description: Our incentives and schemes
-          url: /resources/grants-and-initiatives/
+          url: /resources/stdp/
         - title: our Industry partners
           description: Discover and connect with us
           url: /singapore-space-ecosystem/directory/
