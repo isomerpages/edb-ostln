@@ -1,5 +1,5 @@
 collections:
-  singapore-space-strategy:
+  singapore-space-highlights:
     output: true
     order:
       - Singapore Space Strategy.md
