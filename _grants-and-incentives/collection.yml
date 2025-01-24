@@ -2,6 +2,6 @@ collections:
   grants-and-incentives:
     output: true
     order:
-      - Grants and Initiatives.md
       - Space Technology Development Programme (STDP).md
+      - Grants and Initiatives.md
       - Setting up a business in SG.md
