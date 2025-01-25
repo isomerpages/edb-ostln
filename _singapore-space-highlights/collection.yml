@@ -2,4 +2,5 @@ collections:
   singapore-space-highlights:
     output: true
     order:
+      - Latest Happenings at OSTIn.md
       - "Singapore’s Space Sector: Next Bound of Development.md"
