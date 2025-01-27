@@ -1,7 +1,8 @@
 ---
 title: Grants and Incentives
-permalink: /resources/grants-and-incentives/
-description: Space Grants and Incentives
+permalink: /resources/grants-and-initiatives/
+description: Singapore Space Grants and Initiatives
+variant: tiptap
 ---
 Learn about the different types of incentives and schemes available to help businesses via the link below: 
 

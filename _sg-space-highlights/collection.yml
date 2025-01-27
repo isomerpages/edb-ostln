@@ -1,0 +1,5 @@
+collections:
+  sg-space-highlights:
+    output: true
+    order:
+      - "Singapore’s Space Sector: Next Bound of Development.md"

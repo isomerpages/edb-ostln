@@ -1,7 +1,8 @@
 ---
-title: Ecosystem
-permalink: /singapore-space-ecosystems/highlights/
+title: Local Space Ecosystem
+permalink: /singapore-space-ecosystems/local-space-ecosystem/
 description: Singapore Space Ecosystem
+variant: tiptap
 ---
 Although Singapore's space ecosystem is relatively nascent, its growth is accelerating and the organizations involved have made great strides in expanding their areas of expertise. Singapore's space sector comprises over 2,000 professionals and researchers working in over 60 companies active in different sections of the entire value chain -  from design and manufacturing to satellite based services such as data processing.
 

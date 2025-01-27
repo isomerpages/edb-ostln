@@ -2,15 +2,13 @@ logo: /images/logos/ostin logo new size.png
 links:
   - title: About Us
     collection: about-us
-  - title: Singapore Space Ecosystem
-    collection: singapore-space-ecosystem
-  - title: Grants And Incentives
-    collection: grants-and-incentives
-  - title: Newsroom
-    collection: newsroom
-  - title: Info Room
-    collection: info-room
-  - title: Resources
-    resource_room: true
+  - title: Sg Space Highlights
+    collection: sg-space-highlights
+  - title: Space Ecosystem
+    collection: space-ecosystem
+  - title: Grants & Initiatives
+    collection: grants-and-initiatives
+  - title: News & Info Room
+    collection: news-and-info-room
   - title: Contact Us
     url: /contact-us/

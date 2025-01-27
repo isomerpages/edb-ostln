@@ -1,6 +1,0 @@
-collections:
-  info-room:
-    output: true
-    order:
-      - IMDA Spectrum Requirements.md
-      - Guidelines for Singapore Related Space Activities.md
