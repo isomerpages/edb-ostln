@@ -1,5 +1,5 @@
 collections:
-  newsroom:
+  news-and-info-room:
     output: true
     order:
       - National Statements.md
