@@ -10,8 +10,6 @@ links:
     collection: grants-and-initiatives
   - title: News And Info Room
     collection: news-and-info-room
-  - title: Info Room
-    collection: info-room
   - title: Resources
     resource_room: true
   - title: Contact Us
