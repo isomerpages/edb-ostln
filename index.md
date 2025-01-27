@@ -26,10 +26,10 @@ sections:
       description: With passionate people and a heart for space, our industry strives
         to achieve success and broaden our horizons towards a better future.
       button: discover
-      url: /singapore-space-ecosystems/highlights/
+      url: /singapore-space-ecosystems/local-space-ecosystem/
   - resources:
-      title: Latest News
-      button: All News
+      title: OSTIn Media Gallery
+      button: all news
   - infobar:
       title: Spectrum Requirements
       subtitle: What you need to know
@@ -37,9 +37,9 @@ sections:
       url: /spectrum-requirements/permalink/
   - infopic:
       title: Resources for researchers and companies
-      alt: Image alt text
+      alt: SG Space Development
       image: /images/homepage visual-achievements 2.png
       button: Find out how OSTIN can help
-      url: /resources/grants-and-incentives/
+      url: /resources/grants-and-initiatives/
       subtitle: Funding Opportunities
 ---
