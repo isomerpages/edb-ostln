@@ -6,10 +6,10 @@ variant: markdown
 ---
 ![OSTIn Hero Banner](/images/ostin.jpg)
 # **Our Vision**
-#### To be a global leader in space, propelling innovation, enriching lives, and securing a sustainable future for Singapore and the world.
+#### Be a global leader in space, propelling innovation, enriching lives, and securing a sustainable future for Singapore and the world.
 
 # **Our Mission**
-#### To harness the power of space to drive strategic and economic growth, advance scientific discovery, and inspire a new generation of innovators who will shape the future of humanity.
+#### Develop the next bound of Singapore’s space sector to promote economic growth, advance scientific discovery, and inspire a new generation of innovators.
 
 # **OSTIn's Mandate**
 #### Singapore's National Space Office is responsible for:
