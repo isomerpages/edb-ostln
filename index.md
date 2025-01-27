@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Singapore's Space Highlights
           description: Our space journey
-          url: /sg-space-highlights/
+          url: /sg-space-highlights/singapore-space-sector-next-bound-of-development/
         - title: Grants & Initiatives
           description: Our incentives and schemes
           url: /resources/stdp/
