@@ -37,7 +37,7 @@ sections:
       url: /spectrum-requirements/permalink/
   - infopic:
       title: Resources for researchers and companies
-      alt: Image alt text
+      alt: SG Space Development
       image: /images/homepage visual-achievements 2.png
       button: Find out how OSTIN can help
       url: /resources/grants-and-initiatives/
