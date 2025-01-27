@@ -40,6 +40,6 @@ sections:
       alt: Image alt text
       image: /images/homepage visual-achievements 2.png
       button: Find out how OSTIN can help
-      url: /resources/grants-and-incentives/
+      url: /resources/grants-and-initiatives/
       subtitle: Funding Opportunities
 ---
