@@ -1,5 +1,4 @@
 collections:
   info-room:
     output: true
-    order:
-      - Guidelines for Singapore Related Space Activities.md
+    order: []
