@@ -28,8 +28,8 @@ sections:
       button: discover
       url: /singapore-space-ecosystems/local-space-ecosystem/
   - resources:
-      title: Latest News
-      button: All News
+      title: OSTIn Media Gallery
+      button: all news
   - infobar:
       title: Spectrum Requirements
       subtitle: What you need to know
