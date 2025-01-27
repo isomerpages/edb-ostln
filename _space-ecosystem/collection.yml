@@ -1,5 +1,5 @@
 collections:
-  singapore-space-ecosystem:
+  space-ecosystem:
     output: true
     order:
       - Local Space Ecosystem.md
