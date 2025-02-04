@@ -14,8 +14,7 @@ variant: tiptap
 from Singapore's satellite communications sector to review our collective
 progress, and identify areas and opportunities for enhancement. Our roundtable
 session covered:</p>
-<p>
-<br>🔹 Defining success in the satellite communications domain
+<p>🔹 Defining success in the satellite communications domain
 <br>🔹 Assessing resource needs and technological advancements
 <br>🔹 Exploring ways OSTIn can support companies in their ambitions.</p>
 <p></p>
