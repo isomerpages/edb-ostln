@@ -6,6 +6,7 @@ variant: markdown
 ---
 | Date | Description | 
 | -------- | -------- | 
+|13 Dec 2024| [Nikkei Asia - Singapore startup aims for quantum cryptography satellite launch in 2025](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Singapore-startup-aims-for-quantum-cryptography-satellite-launch-in-2025)
 |11 Oct 2024| [OSTIn hosts 33rd ASEAN Sub-Committee on Space Technology and Applications (SCOSA)](/ostin-hosts-33rd-asean-sub-committee-on-space-technology-and-applications-scosa/)
 | 11 Jun 2024| [OSTIn had the honour of hosting President Tharman Shanmugaratnam’s visit to explore Singapore’s vibrant space ecosystem](/ostin-hosts-president-tharman-shanmugaratnam-visit-to-singapore-space-ecosystem/)
 |1 Nov 2023|[Official visit of Luxembourg Space Agency to SG strengthens bilateral ties](https://www.space.gov.sg/resources/archives/luxembourg-space-agency-strengthens-bilateral/)
