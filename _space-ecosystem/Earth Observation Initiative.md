@@ -4,14 +4,15 @@ permalink: /earth-observation-initiative/
 variant: tiptap
 description: Earth Observation Initiative (EOI)
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/EOI_Logo_High_Res.png">
+</div>
 <p>The Earth Observation Initiative (EOI) is a collaborative effort spearheaded
 by Singapore's Office for Space Technology and Industry (OSTIn). Launched
 on 26 February 2025, the EOI aims to harness the power of Earth observation
 to address pressing sustainability and humanitarian challenges across the
 Asia-Pacific region.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Earth Observation Initiative Infographic Poster" src="/images/EOI_Infographic_with_Logos.png">
-</div>
 <p>Recognising that the challenges confronting the Asia-Pacific region are
 too complex and broad for any single stakeholder to address effectively,
 the EOI brings together a diverse ecosystem of partners, including intergovernmental
@@ -19,6 +20,9 @@ entities, research institutions, and industry players. This collaboration
 aims to develop innovative solutions that are deployable, adoptable, and
 implementable, and scalable for the region, making a tangible impact on
 regional issues.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Earth Observation Initiative Infographic Poster" src="/images/EOI_Infographic_with_Logos.png">
+</div>
 <p><strong>Strategic Goals for the EOI</strong>
 </p>
 <p>The EOI has established three key strategic goals:</p>
