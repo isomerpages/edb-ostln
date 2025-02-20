@@ -8,6 +8,17 @@ description: Earth Observation Initiative (EOI)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/EOI_Logo_High_Res.png">
 </div>
+<p></p>
+<p>Earth Observation technology is increasingly recognised as a powerful
+tool for contributing to sustainable development goals. It offers a cost-effective
+approach to monitoring, managing and mobilising resources by providing
+a more comprehensive, real-time data on a wide range of environmental scenarios.
+This enables us to track changes in land use, monitor water resources,
+assess crop health, and predict natural disasters with unprecedented speed
+and accuracy. The uniqueness of Earth Observation lies in its ability to
+cover vast areas quickly and repeatedly, reducing the need for extensive
+ground-based data collection and providing valuable insights to inform
+targeted interventions and policy decisions.</p>
 <p>The Earth Observation Initiative (EOI) is a collaborative effort spearheaded
 by Singapore's Office for Space Technology and Industry (OSTIn). Launched
 on 26 February 2025, the EOI aims to harness the power of Earth observation
