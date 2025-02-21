@@ -18,4 +18,5 @@ address specific stages of technology development and industry needs:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Archetypes.png">
 </div>
-<p></p>
+<p>Find out more here: <a href="/earth-observation-initiative/" rel="noopener nofollow" target="_blank">OSTIn Launches the Earth Observation Initiative</a>
+</p>
