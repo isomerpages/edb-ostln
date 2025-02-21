@@ -33,7 +33,7 @@ implementable, and scalable for the region, making a tangible impact on
 regional issues.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Earth Observation Initiative Infographic Poster" src="/images/EOI_Infographic_with_Logos.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EOI_Infographic_without_Logos.png">
 </div>
 <p><strong>Strategic Goals for the EOI</strong>
 </p>
