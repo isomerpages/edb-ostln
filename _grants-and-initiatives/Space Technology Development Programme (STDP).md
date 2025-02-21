@@ -27,8 +27,11 @@ This Archetype is for applicants seeking to develop space technologies & capabil
 - Fill in [Technology Development Application Form](https://form.gov.sg/67b87599fac419d7dd564999)
 - Download [Letter of Intent Template](/files/Letter_of_Intent_Template.pdf)
 
+![](/images/Technology_Development.png)
 
 **Archetype 2: Validation & Experimentation**
 
 This Archetype is for applicants seeking to embark on smaller-scale, shorter projects for feasibility study, rapid prototyping and concept validation.
 
+- Fill in [Validation & Experimentation Application Form](https://form.gov.sg/67b88b0f750f3cc6ca51267b)
+- Download [Validation & Experimentation Template](/files/Validation_and_Experimentation_Proposal_Template.pdf)
