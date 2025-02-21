@@ -24,3 +24,7 @@ STDP is open for local Institutions of Higher Learning (IHL), Research Instituti
 
 This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery.
 
+- Fill in [Technology Development Application Form](https://form.gov.sg/67b87599fac419d7dd564999)
+- Download Letter of Intent
+
+![Technology Development 3 Step Application](/images/Technology_Development_Steps.png)
