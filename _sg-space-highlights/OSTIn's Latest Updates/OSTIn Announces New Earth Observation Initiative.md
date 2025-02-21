@@ -28,5 +28,5 @@ across the Asia-Pacific region.</p>
 <p>Prioritise knowledge exchange and capacity building</p>
 </li>
 </ol>
-<p>Find out more here:</p>
-<p></p>
+<p>Find out more here: <a href="/earth-observation-initiative/" rel="noopener nofollow" target="_blank">OSTIn Launches the Earth Observation Initiative</a>
+</p>
