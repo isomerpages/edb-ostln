@@ -13,8 +13,7 @@ The Singapore Economic Development Board Industrial Postgraduate Programme (EDB-
 
 ![Space Faculty conducted space electronic workshops for students](/images/Box_Feature_2_Choice_1_DSC0452__1_.jpg)
 
-For our youth, the Integrated Space Programme is an initiative which aims to inspire pre-tertiary students to pursue STEM education through hands-on exposure to space and satellite technology. In addition to space lessons and coursework, students have the opportunity to design and develop their own space mission, working under the guidance and mentorship of professional space engineers to build a flight-ready satellite for launch and operation in 2026.
+OSTIn facilitated professional development and project opportunities for students, and supported space-themed STEM programmes through various partners to inspire youths to pursue STEM.
 
 ![Space Faculty Space Electronics Workshop](/images/Box_Feature_2_Choice_2_DSC0937.jpg)
 
-OSTIn facilitated professional development and project opportunities for students, and supported space-themed STEM programmes through various partners to inspire youths to pursue STEM.
