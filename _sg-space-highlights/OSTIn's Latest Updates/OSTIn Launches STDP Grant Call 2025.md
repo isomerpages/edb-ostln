@@ -5,15 +5,19 @@ variant: tiptap
 description: OSTIn STDP Grant Call 2025
 third_nav_title: OSTIn's Latest Updates
 ---
-<p>The Satellite Technology Development Programme (STDP) is a comprehensive
-initiative designed to foster innovation, support research and development,
-and accelerate the growth of Singapore's satellite technology ecosystem.</p>
-<p>In 2024, OSTIn has secured an additional $60M to advance technological
-innovation. From 2025 onwards, STDP 2.0 will continue to support the development
-of space technologies that are important to national imperatives and/ or
-economic interests.</p>
+<p>The Space Technology Development Programme (STDP) will be enhanced with
+an additional investment of S$60 million over the next two years, as announced
+by DPM Gan Kim Yong at the Global Space Technology Convention &amp; Exhibition
+2025 earlier today. This aims&nbsp;to accelerate innovation in satellite
+technology, foster capability-building in Singapore’s IHLs and RIs and
+promote the commercialization of research.</p>
+<p>The STDP is a comprehensive initiative designed to foster innovation,
+support research and development, and accelerate the growth of Singapore's
+space technology ecosystem. Since 2022, the Government has set aside over
+S$200 million to support space projects through STDP. Companies, universities,
+and research institutions are welcome to apply.</p>
 <p>The STDP comprises three distinct funding archetypes, each tailored to
-address specific stages of technology development and industry needs:</p>
+address specific stages of technology development and industry needs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STDP 3 Archetypes" src="/images/STDP_3_Archetypes.png">
