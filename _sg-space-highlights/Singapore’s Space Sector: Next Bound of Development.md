@@ -58,3 +58,4 @@ countries and organisations to pursue these goals and foster partnerships
 that drive innovation for meaningful global impact.</p>
 <p>Together, we can harness the power of space to build a brighter future
 for Singapore and the world.&nbsp;</p>
+<p>Download a copy here: <a href="https://drive.google.com/drive/folders/1vj2Bm_MpfTXuWcs72Irj1mGBxGwldiGt?usp=share_link" rel="noopener nofollow" target="_blank">Singapore's Space Sector: Next Bound of Development</a>.</p>
