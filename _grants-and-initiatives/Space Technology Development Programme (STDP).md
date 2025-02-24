@@ -10,7 +10,7 @@ In 2024, OSTIn has secured an additional $60M to advance technological innovatio
 
 The STDP comprises three distinct funding archetypes, each tailored to address specific stages of technology development and industry needs:
 
-
+![STDP 3 Archetypes](/images/STDP_3_Archetypes.png)
 
 These schemes aim to offer focused and expeditious support, enabling more flexible, efficient and targeted support to nurture a thriving space technology sector in Singapore.
 
@@ -24,7 +24,7 @@ STDP is open for local Institutions of Higher Learning (IHL), Research Instituti
 
 This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
 
-
+![](/images/TD.png)
 
 The Letter of Intent template may be downloaded below. Applicants should complete the Letter of Intent and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
 
@@ -36,7 +36,7 @@ The Letter of Intent template may be downloaded below. Applicants should complet
 
 This Archetype is for applicants seeking to embark on smaller-scale, shorter projects for feasibility study, rapid prototyping and concept validation.
 
-
+![Validation & Experimentation](/images/V_E.png)
 
 The V&E Proposal template may be downloaded below. Applicants should complete the V&E Proposal and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
 
