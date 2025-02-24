@@ -8,7 +8,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore's Space Sector: Next Bound of Development" src="/images/SG_Space_Sector_Title_Visual_V2.png">
+<img style="width: 100%" height="auto" width="100%" alt="OSTIn Space Sector Title" src="/images/OSTIn_Space_Sector_Title.png">
 </div>
 <p>As Singapore continues to advance our position as a global hub for innovation
 and technology, space will be part of our vision for the future. <em>Singapore’s Space Sector: Next Bound of Development</em> announced
