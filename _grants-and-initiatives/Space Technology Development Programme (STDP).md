@@ -31,7 +31,7 @@ This Archetype is for applicants seeking to develop space technologies & capabil
 
 **Archetype 2: Validation & Experimentation**
 
-This Archetype is for applicants seeking to embark on smaller-scale, shorter projects for feasibility study, rapid prototyping and concept validation.
+This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery.
 
 - Fill in [Validation & Experimentation Application Form](https://form.gov.sg/67b88b0f750f3cc6ca51267b)
 - Download [Validation & Experimentation Template](/files/Validation_and_Experimentation_Proposal_Template.pdf)
