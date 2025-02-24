@@ -27,13 +27,27 @@ This Archetype is for applicants seeking to develop space technologies & capabil
 ![](/images/Technology_Development.png)
 
 The Letter of Intent template may be downloaded below. Applicants should complete the Letter of Intent and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
+
 - Fill in [Technology Development Application Form](https://form.gov.sg/67b87599fac419d7dd564999)
 - Download [Letter of Intent Template](/files/Letter_of_Intent_Template.pdf)
 
 
 **Archetype 2: Validation & Experimentation**
 
-This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery.
+This Archetype is for applicants seeking to embark on smaller-scale, shorter projects for feasibility study, rapid prototyping and concept validation.
+
+
+
+The V&E Proposal template may be downloaded below. Applicants should complete the V&E Proposal and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
 
 - Fill in [Validation & Experimentation Application Form](https://form.gov.sg/67b88b0f750f3cc6ca51267b)
 - Download [Validation & Experimentation Template](/files/Validation_and_Experimentation_Proposal_Template.pdf)
+
+**Archetype 3: Space Access Programme (SAP)**
+
+This Archetype is for applicants seeking to test their technologies in space to achieve Space Heritage.
+
+Examples of space testing includes:
+Advanced material testing, Solar cells, edge-computing, payload testing.
+
+Interested participants can reach out to OSTIn’s Technology Team for technical discussions via [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
