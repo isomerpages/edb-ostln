@@ -22,12 +22,14 @@ STDP is open for local Institutions of Higher Learning (IHL), Research Instituti
 
 **Archetype 1: Technology Development**
 
-This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery.
+This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
 
+![](/images/Technology_Development.png)
+
+The Letter of Intent template may be downloaded below. Applicants should complete the Letter of Intent and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
 - Fill in [Technology Development Application Form](https://form.gov.sg/67b87599fac419d7dd564999)
 - Download [Letter of Intent Template](/files/Letter_of_Intent_Template.pdf)
 
-![](/images/Technology_Development.png)
 
 **Archetype 2: Validation & Experimentation**
 
