@@ -39,8 +39,7 @@ This Archetype is for applicants seeking to embark on smaller-scale, shorter pro
 
 The V&E Proposal template may be downloaded below. Applicants should complete the V&E Proposal and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
 
-- Fill in [Validation & Experimentation Application Form](https://form.gov.sg/67b88b0f750f3cc6ca51267b)
-- Download [Validation & Experimentation Template](/files/Validation_and_Experimentation_Proposal_Template.pdf)
+- [STDP - Validation & Experimentation Proposal](https://form.gov.sg/67bc9cd5c364a2dd652430de)
 
 **Archetype 3: Space Access Programme (SAP)**
 
