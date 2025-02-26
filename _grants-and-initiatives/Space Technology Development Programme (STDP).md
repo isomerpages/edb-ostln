@@ -20,9 +20,8 @@ Key areas of focus include Remote Sensing and Satellite Communications. However,
 
 STDP is open for local Institutions of Higher Learning (IHL), Research Institutions (RI), and industry partners. Interested foreign entities must seek local partners. The Application Process for each Archetype is as follows:
 
-#### **Archetype 1: Technology Development**
-#### 
-This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
+#### **Archetype 1: Technology Development** 
+#### This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
 
 ![](/images/TD.png)
 
@@ -31,7 +30,7 @@ The Letter of Intent template may be downloaded below. Applicants should complet
 - [Technology Development Letter of Intent](https://form.gov.sg/67b87599fac419d7dd564999)
 
 #### **Archetype 2: Validation & Experimentation**
-#### 
+####   
 This Archetype is for applicants seeking to embark on smaller-scale, shorter projects for feasibility study, rapid prototyping and concept validation.
 
 ![Validation & Experimentation](/images/V_E.png)
