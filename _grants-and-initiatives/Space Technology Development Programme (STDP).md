@@ -26,7 +26,7 @@ This Archetype is for applicants seeking to develop space technologies & capabil
 
 ![](/images/TD.png)
 
-The Letter of Intent template may be downloaded below. Applicants should complete the Letter of Intent and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
+For interested applicants, please complete and submit the Letter of Intent below:
 
 - [Technology Development Letter of Intent](https://form.gov.sg/67b87599fac419d7dd564999)
 
@@ -36,7 +36,7 @@ This Archetype is for applicants seeking to embark on smaller-scale, shorter pro
 
 ![Validation & Experimentation](/images/V_E.png)
 
-The V&E Proposal template may be downloaded below. Applicants should complete the V&E Proposal and submit to [ostin@edb.gov.sg](mailto:ostin@edb.gov.sg)
+For interested applicants, please complete and submit the Validation & Experimentation Proposal below:
 
 - [Validation & Experimentation Proposal](https://form.gov.sg/67bc9cd5c364a2dd652430de)
 
