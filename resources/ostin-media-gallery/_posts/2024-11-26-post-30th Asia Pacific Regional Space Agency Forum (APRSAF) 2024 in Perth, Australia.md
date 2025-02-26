@@ -7,9 +7,6 @@ description: 30th Asia-Pacific Regional Space Agency Forum (APRSAF) 2024 in Pert
 image: /images/APRSAF_img_2.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Driving Regional Collaboration at APRSAF 2024" src="/images/APRSAF_img_2.jpg">
-</div>
 <p>Driving Regional Collaboration at APRSAF 2024. OSTIn’s Acting Director
 (Industry), Mr. Dalvir Singh, represented Singapore at the 30th Asia-Pacific
 Regional Space Agency Forum (APRSAF) 2024 in Perth, Australia.</p>
