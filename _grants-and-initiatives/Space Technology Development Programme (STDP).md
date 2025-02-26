@@ -21,7 +21,8 @@ Key areas of focus include Remote Sensing and Satellite Communications. However,
 STDP is open for local Institutions of Higher Learning (IHL), Research Institutions (RI), and industry partners. Interested foreign entities must seek local partners. The Application Process for each Archetype is as follows:
 
 #### **Archetype 1: Technology Development** 
-#### This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
+#### 
+This Archetype is for applicants seeking to develop space technologies & capabilities to address business or national needs, with a clear plan to delivery. 
 
 ![](/images/TD.png)
 
