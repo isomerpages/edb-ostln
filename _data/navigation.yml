@@ -1,0 +1,14 @@
+logo: /images/logos/OSTIn_logo_medium.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Sg Space Highlights
+    collection: sg-space-highlights
+  - title: Space Ecosystem
+    collection: space-ecosystem
+  - title: Grants & Initiatives
+    collection: grants-and-initiatives
+  - title: News & Info Room
+    collection: news-and-info-room
+  - title: Contact Us
+    url: /contact-us/

@@ -1,0 +1,8 @@
+collections:
+  space-ecosystem:
+    output: true
+    order:
+      - Earth Observation Initiative.md
+      - Local Space Ecosystem.md
+      - Singapore Space Directory.md
+      - STEM Outreach.md
