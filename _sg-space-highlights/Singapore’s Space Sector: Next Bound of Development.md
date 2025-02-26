@@ -12,10 +12,10 @@ variant: tiptap
 </div>
 <p>As Singapore continues to advance our position as a global hub for innovation
 and technology, space will be part of our vision for the future. <em>Singapore’s Space Sector: Next Bound of Development</em> announced
-at the Global Space Technology Convention &amp; Exhibition (GSTCE) on 26
-February 2025 sets out how Singapore will address the priorities of strengthening
-our national capabilities in space, and creating pathways for Singapore
-to participate in and contribute to the rapidly growing global space economy.</p>
+at the Global Space Technology Convention &amp; Exhibition (GSTCE) on <strong>26 February 2025</strong> sets
+out how Singapore will address the priorities of strengthening our national
+capabilities in space, and creating pathways for Singapore to participate
+in and contribute to the rapidly growing global space economy.</p>
 <h4><strong>Singapore: The Place for Space</strong></h4>
 <p><strong>Our Journey</strong>
 <br>Singapore’s space journey dates back several decades with the installation
