@@ -1,7 +1,7 @@
 ---
 title: "Singapore’s Space Sector: Next Bound of Development"
 permalink: /sg-space-highlights/singapore-space-sector-next-bound-of-development/
-date: 2022-02-05
+date: 2025-02-26
 layout: post
 description: "Singapore’s Space Sector: Next Bound of Development"
 variant: tiptap
