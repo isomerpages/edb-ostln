@@ -116,18 +116,14 @@ regional issues.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="International Partnerships" src="/images/OSTIn_International_Partnerships.png">
 </div>
-<p>
-<br>OSTIn signed partnerships with the <a href="https://www.unoosa.org" rel="noopener noreferrer nofollow" target="_blank">UN Office for Outer Space Affairs (UNOOSA)</a>,
-<a href="https://www.mrcmekong.org" rel="noopener noreferrer nofollow" target="_blank">Mekong River Commission (MRC)</a>, <a href="https://space.gov.ae/en" rel="noopener noreferrer nofollow" target="_blank">UAE Space Agency</a>, and <a href="https://www.esa.int" rel="noopener noreferrer nofollow" target="_blank">European Space Agency</a>.</p>
-<p>
-<br>OSTIn is honoured to have signed an MOU on space cooperation with the
-<a href="https://www.linkedin.com/company/uae-space-agency/" class="EsZtTLoFIUAUIwpVUZrTgOCpNfIJUjpMMI" rel="noopener noreferrer nofollow" target="_self">UAE Space Agency</a>on 26 February 2025, represented by Executive Director
-OSTIn <a href="https://www.linkedin.com/in/jonathan-hung-318b874/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Jonathan Hung</a> and
-Director-General UAESA HE Salem Butti Salem AlQubaisi respectively. This
-momentous event was witnessed by Chairman OSTIn Mr. Peter Ho, and Ambassador
-of The UAE to Singapore HE <a href="https://www.linkedin.com/in/jamal-alsuwaidi-3963b533/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Jamal Alsuwaidi</a>.
-🇸🇬 🇦🇪</p>
-<p></p>
+<p>OSTIn signed partnerships with the <a href="https://www.unoosa.org" rel="noopener noreferrer nofollow" target="_blank">UN Office for Outer Space Affairs (UNOOSA)</a>,
+<a href="https://www.mrcmekong.org" rel="noopener noreferrer nofollow" target="_blank">Mekong River Commission (MRC)</a>, <a href="https://space.gov.ae/en" rel="noopener noreferrer nofollow" target="_blank">UAE Space Agency</a>, and <a href="https://www.esa.int" rel="noopener noreferrer nofollow" target="_blank">European Space Agency</a>.
+Singapore is committed to developing strong and mutually beneficial space
+partnerships with like-minded partners in the international space ecosystem.</p>
+<p>The cooperation in space research and space activities for peaceful purposes
+establishes a common framework for bilateral cooperation. It reflects our
+mutual interest in the field of exploration and use of outer space for
+peaceful purposes.</p>
 <p>OSTIn's new initiatives will help expand Singapore’s space ecosystem to
 deliver impactful space-related innovations and solutions to the world
 with the support of our local and international partners.
@@ -135,7 +131,8 @@ with the support of our local and international partners.
 <br>The future of space is one of limitless possibilities. Singapore is ready
 to play an active role in shaping this exciting frontier and in so doing,
 create new opportunities for our economy, society, and globally.</p>
-<p></p>
 <p>We sincerely thank everyone who has attended our line-up of events at
 the Singapore Space Week 2025 and hope that you had an enjoyable time in
-Singapore.</p>
+Singapore. Looking forward to seeing everyone at the Singapore Space Week
+2026.</p>
+<p></p>
