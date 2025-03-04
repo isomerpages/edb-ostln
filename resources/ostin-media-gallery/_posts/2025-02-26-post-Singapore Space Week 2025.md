@@ -110,7 +110,6 @@ entities, research institutions, and industry players. This collaboration
 aims to develop innovative solutions that are deployable, adoptable, and
 implementable, and scalable for the region, making a tangible impact on
 regional issues.</p>
-<p></p>
 <h4>5. International partnerships</h4>
 <p></p>
 <div class="isomer-image-wrapper">
