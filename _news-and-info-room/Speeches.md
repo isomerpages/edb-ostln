@@ -2,9 +2,11 @@
 title: Speeches
 permalink: /press-releases/speeches/
 description: Speeches by OSTIn
+variant: markdown
 ---
 | Date | Description | 
 | -------- | -------- | 
+26 Feb 2025| [Speech by DPM and Minister for Trade and Industry Gan Kim Yong at the Global Space Technology Convention & Exhibition 2025](https://www.mti.gov.sg/Newsroom/Speeches/2025/02/Speech-by-DPM-and-Minister-for-Trade-and-Industry-Gan-Kim-Yong-at-the-Global-Space-Technology)
 15 Feb 2023| [Speech by Minister S Iswaran at the Global Space and Technology Convention (GSTC) 2023](https://www.mti.gov.sg/Newsroom/Speeches/2023/02/Speech-by-Minister-S-Iswaran-at-the-Global-Space-and-Technology-Convention-2023)
 09 Feb 2022| [Speech by Minister Gan Kim Yong at the 14th Global Space and Technology Convention (GSTC) 2022](https://www.mti.gov.sg/Newsroom/Speeches/2022/02/Speech-by-Minister-Gan-Kim-Yong-at-the-14th-Global-Space-and-Technology-Convention)
 07 Jun 2021 | [Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the Global Space & Technology Convention (GSTC) 2021](https://www.pmo.gov.sg/Newsroom/SM-Teo-Chee-Hean-Global-Space-Technology-Convention) |
