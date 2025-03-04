@@ -132,4 +132,3 @@ create new opportunities for our economy, society, and globally.</p>
 the Singapore Space Week 2025 and hope that you had an enjoyable time in
 Singapore. Looking forward to seeing everyone at the Singapore Space Week
 2026.</p>
-<p></p>
