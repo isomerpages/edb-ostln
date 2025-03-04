@@ -12,7 +12,6 @@ variant: tiptap
 </div>
 <p>The Office for Space Technology &amp; Industry, Singapore has completed
 our week of events at the Singapore Space Week 2025.</p>
-<p></p>
 <h4>1. 7th Edition of the Singapore Space Symposium 2025</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -91,7 +90,6 @@ and research institutions are welcome to apply.
 <br>To find out more about STDP and the application process, please visit:
 <a href="https://lnkd.in/dwzDmuEi" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/dwzDmuEi</a>
 </p>
-<p></p>
 <h4>4. Launch of the Earth Observation Initiative (EOI)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
