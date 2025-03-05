@@ -4,7 +4,7 @@ permalink: /resources/stdp/
 description: Space Technology Development Programme (STDP)
 variant: markdown
 ---
-The Satellite Technology Development Programme (STDP) is a comprehensive initiative designed to foster innovation, support research and development, and accelerate the growth of Singapore's satellite technology ecosystem.
+The Space Technology Development Programme (STDP) is a comprehensive initiative designed to foster innovation, support research and development, and accelerate the growth of Singapore's satellite technology ecosystem.
 
 In 2024, OSTIn has secured an additional $60M to advance technological innovation. From 2025 onwards, STDP 2.0 will continue to support the development of space technologies that are important to national imperatives and/ or economic interest.
 

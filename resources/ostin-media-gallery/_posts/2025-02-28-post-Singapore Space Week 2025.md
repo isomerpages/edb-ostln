@@ -69,7 +69,7 @@ advance scientific discovery, and inspire a new generation of innovators.
 <br>Discover more about Singapore’s Space Sector: Next Bound of Development
 via this link: <a href="https://lnkd.in/gVPpCUUZ" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gVPpCUUZ</a>
 </p>
-<h4>3. Additional support of $60 million for the Singapore Technology Development Programme (STDP)</h4>
+<h4>3. Additional support of $60 million for the Space Technology Development Programme (STDP)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Space technology development programme 3 archetypes" src="/images/STDP_3_Archetypes.png">
