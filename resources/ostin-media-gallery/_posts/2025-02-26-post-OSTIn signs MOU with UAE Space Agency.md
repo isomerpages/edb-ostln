@@ -1,7 +1,7 @@
 ---
 title: OSTIn signs MOU with UAE Space Agency
 permalink: /ostin-signs-mou-with-uae-space-agency/
-date: 2025-02-27
+date: 2025-02-26
 layout: post
 description: OSTIn signs MOU with UAE Space Agency
 image: /images/WhatsApp_Image_2025_02_27_at_09_59_40.jpg
