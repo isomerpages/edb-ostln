@@ -66,8 +66,7 @@ students to experienced research institutes and space-bound local companies.&nbs
 with our community and international partners - to promote economic growth,
 advance scientific discovery, and inspire a new generation of innovators.
 <br>
-<br>Discover more about Singapore’s Space Sector: Next Bound of Development
-via this link: <a href="https://lnkd.in/gVPpCUUZ" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gVPpCUUZ</a>
+<br>Discover more via this link: <a href="https://www.space.gov.sg/sg-space-highlights/singapore-space-sector-next-bound-of-development/" rel="noopener nofollow" target="_blank">Singapore’s Space Sector: Next Bound of Development</a>
 </p>
 <h4>3. Additional support of $60 million for the Space Technology Development Programme (STDP)</h4>
 <p></p>
