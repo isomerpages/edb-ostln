@@ -71,7 +71,4 @@ are widely shared and that the capacity for Earth observation technology
 continues to grow both regionally and globally.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials from Industry partners and members" src="/images/EOI_Testimonials__1800_x_600_px_.gif">
-</div>
 <p></p>
