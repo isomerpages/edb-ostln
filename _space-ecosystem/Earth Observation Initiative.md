@@ -72,6 +72,6 @@ continues to grow both regionally and globally.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EOI Testimonials" src="/images/New_EOI_Testimonials__1800_x_600_px_.gif">
+<img style="width: 100%" height="auto" width="100%" alt="EOI Testimonials" src="/images/14_Mar_EOI_Testimonials__1800_x_600_px_.gif">
 </div>
 <p></p>
