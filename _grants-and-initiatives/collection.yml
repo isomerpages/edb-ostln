@@ -2,6 +2,7 @@ collections:
   grants-and-initiatives:
     output: true
     order:
+      - STDP Thematic Grant Call.md
       - Space Technology Development Programme (STDP).md
       - Grants and Incentives.md
       - Setting up a business in SG.md
