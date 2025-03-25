@@ -79,8 +79,8 @@ period must be provided.</p>
 </p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to public research entities
-in Singapore, including Institutes of Higher Learning (IHLs), public sector
-agencies and Research Institutes (RIs). The main Researcher or Principle
+in Singapore, including Institutions of Higher Learning (IHLs), public
+sector agencies and Research Institutes (RIs). The main Researcher or Principle
 Investigator (PI) shall hold a full-time appointment in an eligible R&amp;D
 organisation.</p>
 <p></p>
