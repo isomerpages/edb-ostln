@@ -9,6 +9,18 @@ image: /images/STDP_Thematic_Grant_Call.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STDP Hero Image" src="/images/STDP_Thematic_Grant_Call.png">
 </div>
+<p><strong><u>Key Details:</u></strong>
+<br><strong>Date of Brief: </strong>22 Apr, 1000H to 1200H
+<br><strong>Venue:</strong>&nbsp;Maritime&nbsp;and&nbsp;Port Authority&nbsp;of
+Singapore,&nbsp;Alice @ Mediapolis
+<br><strong>Address: </strong>29 Media Circle, Singapore 138565, Level 8 North
+Lobby
+<br><strong>Eligibility for Grant:</strong> 1) Local Institutions of Higher
+Learning, 2) Local Research Institutions, 3) Industry Partners</p>
+<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
+</p>
+<hr>
+<p></p>
 <p><strong><u>Grant Call Brief Details</u></strong>
 </p>
 <p><strong>Exploitation of Earth Observation Data</strong>
