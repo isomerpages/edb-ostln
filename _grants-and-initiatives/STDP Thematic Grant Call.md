@@ -99,9 +99,8 @@ Lobby
 <br><strong>Eligibility for Grant:</strong> 1) Local Institutions of Higher
 Learning, 2) Local Research Institutions, 3) Industry Partners</p>
 <p></p>
-<p>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register
-your interest to attend the Grant Call Brief by 8 April 2025. For more
-details.</p>
+<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
+</p>
 <p></p>
 <hr>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
