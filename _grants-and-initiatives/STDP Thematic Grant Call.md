@@ -10,7 +10,7 @@ image: /images/STDP_Thematic_Grant_Call.png
 <img style="width: 100%" height="auto" width="100%" alt="STDP Hero Image" src="/images/STDP_Thematic_Grant_Call.png">
 </div>
 <p><strong><u>Key Details:</u></strong>
-<br><strong>Date of Brief: </strong>22 Apr, 1000H to 1200H
+<br><strong>Date of Brief: </strong>22 April 2025, 10.00am to 12.00noon
 <br><strong>Venue:</strong>&nbsp;Maritime&nbsp;and&nbsp;Port Authority&nbsp;of
 Singapore,&nbsp;Alice @ Mediapolis
 <br><strong>Address: </strong>29 Media Circle, Singapore 138565, Level 8 North
@@ -25,7 +25,7 @@ Learning, 2) Local Research Institutions, 3) Industry Partners</p>
 </p>
 <p><strong>Exploitation of Earth Observation Data</strong>
 <br>
-<br>Earth Observation data has become a crucial tool in addressing sustainability
+<br>Earth observation data has become a crucial tool in addressing sustainability
 and humanitarian challenges, particularly in disaster response and maritime
 operations. By providing comprehensive and timely information about our
 planet, these technologies enable us to monitor, understand, and respond
@@ -33,7 +33,7 @@ to changes more effectively.&nbsp;</p>
 <p>In disaster response, real-time satellite imagery allows for rapid assessment
 of affected areas, facilitating quicker and more targeted emergency interventions,
 whilst historical data helps in predicting and mitigating future risks.</p>
-<p>For maritime operations, Earth Observation data supports critical activities
+<p>For maritime operations, Earth observation data supports critical activities
 such as optimising ship routing, enhancing port security, and detecting
 illegal fishing or oil spill incidents. This wealth of information not
 only improves operational efficiency and safety at sea but also contributes
@@ -70,18 +70,19 @@ data) for more detailed and timely insights for decision-making.</p>
 <p><strong>Project Duration</strong>
 </p>
 <p>The project duration, including completion of the final report and all
-miscellaneous project activities, shall not exceed one (1) year. (Proposals
+miscellaneous project activities, shall not exceed one (1) year. Proposals
 requesting support for longer than the stipulated number of years may be
 submitted. However, when compared with proposals of similar quality, these
 will be given lower priority. Strong justifications for the longer development
-period must be provided.)</p>
+period must be provided.</p>
 <p>&nbsp;<strong>Eligibility and Funding Support&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p></p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to Public research entities
-in Singapore, including Institutes of Higher Learning, public sector agencies
-and research institutes. The main Researcher or Principle Investigator
-(PI) shall i) Hold a full-time appointment in an eligible R&amp;D organisation.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to public research entities
+in Singapore, including Institutes of Higher Learning (IHLs), public sector
+agencies and Research Institutes (RIs). The main Researcher or Principle
+Investigator (PI) shall hold a full-time appointment in an eligible R&amp;D
+organisation.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Public research entities in Singapore can qualify
 for up to 100% funding support of approved qualifying direct costs of a
@@ -103,6 +104,9 @@ unless approved by OSTIn.</p>
 <hr>
 <p></p>
 <p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
+</p>
+<p></p>
+<p><strong>Details on the Assessment Criteria and application process will be released on 22 April 2025 at 3.00pm.</strong>
 </p>
 <p></p>
 <hr>
