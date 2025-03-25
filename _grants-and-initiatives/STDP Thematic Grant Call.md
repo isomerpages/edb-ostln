@@ -89,13 +89,7 @@ unless approved by OSTIn.</p>
 <br>Submission of Letter of Intent between 23 Apr 2025 to 7 May 2025, 2359H.</p>
 <p></p>
 <hr>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
-University of Singapore (NUS), Nanyang Technological University (NTU),
-Singapore Management University (SMU), Singapore University of Technology
-and Design (SUTD), Singapore Institute of Technology (SIT), Singapore University
-of Social Sciences (SUSS), Institute of Technical Education (ITE), and
-all Polytechnics in Singapore.</p>
-<hr>
+<p></p>
 <p><strong><u>Key Details:</u></strong>
 <br><strong>Date of Brief: </strong>22 Apr, 1000H to 1200H
 <br><strong>Venue:</strong>&nbsp;Maritime&nbsp;and&nbsp;Port Authority&nbsp;of
@@ -108,4 +102,12 @@ Learning, 2) Local Research Institutions, 3) Industry Partners</p>
 <p>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register
 your interest to attend the Grant Call Brief by 8 April 2025. For more
 details.</p>
+<p></p>
+<hr>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
+University of Singapore (NUS), Nanyang Technological University (NTU),
+Singapore Management University (SMU), Singapore University of Technology
+and Design (SUTD), Singapore Institute of Technology (SIT), Singapore University
+of Social Sciences (SUSS), Institute of Technical Education (ITE), and
+all Polytechnics in Singapore.</p>
 <p>&nbsp;</p>
