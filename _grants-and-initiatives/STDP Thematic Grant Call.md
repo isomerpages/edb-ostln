@@ -15,8 +15,8 @@ image: /images/STDP_Thematic_Grant_Call.png
 Singapore,&nbsp;Alice @ Mediapolis
 <br><strong>Address: </strong>29 Media Circle, Singapore 138565, Level 8 North
 Lobby
-<br><strong>Eligibility for Grant:</strong> 1) Local Institutions of Higher
-Learning, 2) Local Research Institutions, 3) Industry Partners</p>
+<br><strong>Eligibility for Grant:</strong> 1) Local Institutes of Higher Learning,
+2) Local Research Institutions, 3) Industry Partners</p>
 <p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
 </p>
 <hr>
@@ -79,8 +79,8 @@ period must be provided.</p>
 </p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to public research entities
-in Singapore, including Institutions of Higher Learning (IHLs), public
-sector agencies and Research Institutes (RIs). The main Researcher or Principle
+in Singapore, including Institutes of Higher Learning (IHLs), public sector
+agencies and Research Institutes (RIs). The main Researcher or Principle
 Investigator (PI) shall hold a full-time appointment in an eligible R&amp;D
 organisation.</p>
 <p></p>
