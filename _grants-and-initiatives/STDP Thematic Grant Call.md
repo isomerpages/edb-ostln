@@ -17,7 +17,7 @@ Singapore,&nbsp;Alice @ Mediapolis
 Lobby
 <br><strong>Eligibility for Grant:</strong> 1) Local Institutes of Higher Learning,
 2) Local Research Institutions, 3) Industry Partners</p>
-<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
+<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 15 April 2025. For more details.</strong>
 </p>
 <hr>
 <p></p>
@@ -103,7 +103,7 @@ unless approved by OSTIn.</p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 8 April 2025. For more details.</strong>
+<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 15 April 2025. For more details.</strong>
 </p>
 <p></p>
 <p><strong>Details on the Assessment Criteria and application process will be released on 22 April 2025 at 3.00pm.</strong>
