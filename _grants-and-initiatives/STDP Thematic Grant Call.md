@@ -133,7 +133,7 @@ broad set of criteria:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ii</strong>.	<strong>Economic and/or Fulfilling National Needs Potential (35%)</strong>
+<p><strong>ii</strong>. <strong>Economic and/or Fulfilling National Needs Potential (35%)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
