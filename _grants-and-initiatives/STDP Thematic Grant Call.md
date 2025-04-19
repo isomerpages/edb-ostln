@@ -240,8 +240,6 @@ on the outcome of the grant call will be considered as final.</p>
 </p>
 <p></p>
 <hr>
-<hr>
-<hr>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
 University of Singapore (NUS), Nanyang Technological University (NTU),
 Singapore Management University (SMU), Singapore University of Technology
