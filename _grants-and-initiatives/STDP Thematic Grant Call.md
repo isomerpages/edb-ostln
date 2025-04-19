@@ -200,12 +200,12 @@ specifications for integration, if relevant)</p>
 </p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; Grant applicants proposing projects that are
 more downstream in nature (e.g. projects leading to the actual development
-of new products, software, and services) are <strong><u>required</u></strong> to
-have the support of an industry partner<a rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a> in
-project execution. Projects with a greater degree of industry support and
-collaboration (i.e. industry co-investment, industry partnerships, pathways
-to commercialization) are preferred. Researchers are required to clearly
-state the nature and degree of their proposed collaboration with industry.</p>
+of new products, software, and services) are <strong>required</strong> to
+have the support of an industry partner in project execution. Projects
+with a greater degree of industry support and collaboration (i.e. industry
+co-investment, industry partnerships, pathways to commercialization) are
+preferred. Researchers are required to clearly state the nature and degree
+of their proposed collaboration with industry.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp; Projects that are more upstream in nature and
 oriented around fundamental research should also clearly articulate the
 pathways to commercialization and/or government use cases for the proposed
@@ -224,7 +224,7 @@ to the PEP and to provide clarifications to the PEP’s queries.</p>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Proposals must be submitted to the RFP OIC
 using the Proposal Template via email with the Subject Title format: “STDP-Title
-of Theme-Institution &amp; Department of Applicant“. Please refer to <strong><u>Annex A</u></strong> for
+of Theme-Institution &amp; Department of Applicant“. Please refer to <strong>Annex A</strong> for
 the list of available theme(s).</p>
 <p></p>
 <p><strong>Result</strong>
