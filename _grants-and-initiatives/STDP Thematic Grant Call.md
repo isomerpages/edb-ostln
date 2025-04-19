@@ -240,10 +240,6 @@ on the outcome of the grant call will be considered as final.</p>
 </p>
 <p></p>
 <hr>
-<p>&nbsp;<a class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[HL1]</a>Suggest
-to add in an email contact for enquiries. But we will be in close touch
-with the Uni Research Support Office so providing this email should be
-manageable and not too overwhelming.</p>
 <hr>
 <hr>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
