@@ -10,21 +10,16 @@ image: /images/STDP_Thematic_Grant_Call.png
 <img style="width: 100%" height="auto" width="100%" alt="STDP Hero Image" src="/images/STDP_Thematic_Grant_Call.png">
 </div>
 <p><strong><u>Key Details:</u></strong>
-<br><strong>Date of Brief: </strong>22 April 2025, 10.00am to 12.00noon
-<br><strong>Venue:</strong>&nbsp;Maritime&nbsp;and&nbsp;Port Authority&nbsp;of
-Singapore,&nbsp;Alice @ Mediapolis
-<br><strong>Address: </strong>29 Media Circle, Singapore 138565, Level 8 North
-Lobby
-<br><strong>Eligibility for Grant:</strong> 1) Local Institutes of Higher Learning,
-2) Local Research Institutions, 3) Industry Partners</p>
-<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 15 April 2025. For more details.</strong>
+<br><strong>OSTIn’s Thematic Grant Call 2025 – Call for Letter of Intent (LOI)</strong> 
+<br><strong>Period of Application: 23 Apr to 7 May 2025</strong>
+<br><strong>Link to form:</strong>  <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent Template &amp; Submission</a></strong>
+<br>
 </p>
 <hr>
 <p></p>
 <p><strong><u>Grant Call Brief Details</u></strong>
 </p>
 <p><strong>Exploitation of Earth Observation Data</strong>
-<br>
 <br>Earth observation data has become a crucial tool in addressing sustainability
 and humanitarian challenges, particularly in disaster response and maritime
 operations. By providing comprehensive and timely information about our
@@ -44,13 +39,10 @@ themes to brief participants on the specific problem statements and envisaged
 requirements of the proposed solutions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Disaster assessment and prediction</p>
+<p>All-Weather &amp; Accurate Anomaly Detection for Maritime Needs</p>
 </li>
 <li>
-<p>Vessel identification</p>
-</li>
-<li>
-<p>Oil spill detection</p>
+<p>Disaster assessment and prediction for HADR needs</p>
 </li>
 </ul>
 <p>These themes aim to leverage Earth observation data for sustainability
@@ -68,16 +60,14 @@ data) for more detailed and timely insights for decision-making.</p>
 </li>
 </ul>
 <p><strong>Project Duration</strong>
-</p>
-<p>The project duration, including completion of the final report and all
+<br>The project duration, including completion of the final report and all
 miscellaneous project activities, shall not exceed one (1) year. Proposals
 requesting support for longer than the stipulated number of years may be
 submitted. However, when compared with proposals of similar quality, these
 will be given lower priority. Strong justifications for the longer development
 period must be provided.</p>
-<p>&nbsp;<strong>Eligibility and Funding Support&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>&nbsp;<strong>Eligibility and Funding Support&nbsp;</strong>
 </p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to public research entities
 in Singapore, including Institutes of Higher Learning (IHLs), public sector
 agencies and Research Institutes (RIs). The main Researcher or Principle
@@ -99,16 +89,162 @@ in Singapore;</p>
 unless approved by OSTIn.</p>
 <p></p>
 <p><strong>Duration of Grant Call</strong>
-<br>Submission of Letter of Intent between 23 Apr 2025 to 7 May 2025, 2359H.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submission of <strong><u>Letter of Intent</u></strong> between 23 Apr 2025
+to 7 May 2025, 2359H.</p>
+</li>
+<li>
+<p>Only shortlisted Letters of Intent will be invited to submit a proposal
+for evaluation. (See assessment criteria and evaluation processes below)</p>
+</li>
+</ul>
 <p></p>
 <hr>
+<p><strong>Assessment Criteria</strong>
+</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;Proposals will be evaluated on the following
+broad set of criteria:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; Quality and Significance of Research (35%)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Innovativeness and originality of the proposed solution</p>
+</li>
+<li>
+<p>Technical feasibility and soundness of the research approach</p>
+</li>
+<li>
+<p>Potential for breakthrough outcomes or significant improvements</p>
+</li>
+<li>
+<p>Advancement of knowledge in the field and potential for future developments</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ii</strong>.	<strong>Economic and/or Fulfilling National Needs Potential (35%)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relevance and potential impact on industry sectors and/or across Whole-of-Government
+(WOG)</p>
+</li>
+<li>
+<p>Alignment with national priorities and economic goals objectives</p>
+</li>
+<li>
+<p>Potential for job creation and/or skills development</p>
+</li>
+<li>
+<p>Scalability and commercialisation prospects</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>iii.&nbsp;&nbsp;&nbsp;&nbsp; Partnership and Technical Competency (15%)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quality and specificity of real-life use cases provided by partners/end-users</p>
+</li>
+<li>
+<p>Technical expertise and track record of the research team</p>
+</li>
+<li>
+<p>Complementarity of skills and resources among partners</p>
+</li>
+<li>
+<p>Clarity of commercialisation or productisation route (e.g., interface
+specifications for integration, if relevant)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>iv.&nbsp;&nbsp;&nbsp;&nbsp; Project Management and Cost (15%)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Clarity and feasibility of project timeline and milestones</p>
+</li>
+<li>
+<p>Appropriateness of budget allocation and cost-effectiveness</p>
+</li>
+<li>
+<p>Risk management and mitigation strategies</p>
+</li>
+<li>
+<p>Clear roles and responsibilities among partners and/or end-users</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Industry Relevance (Economic potential)</strong>
+</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp; Grant applicants proposing projects that are
+more downstream in nature (e.g. projects leading to the actual development
+of new products, software, and services) are <strong><u>required</u></strong> to
+have the support of an industry partner<a rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a> in
+project execution. Projects with a greater degree of industry support and
+collaboration (i.e. industry co-investment, industry partnerships, pathways
+to commercialization) are preferred. Researchers are required to clearly
+state the nature and degree of their proposed collaboration with industry.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp; Projects that are more upstream in nature and
+oriented around fundamental research should also clearly articulate the
+pathways to commercialization and/or government use cases for the proposed
+research to be undertaken.</p>
+<p><strong>Application and Evaluation Process:</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;In response to the OSTIn Request for
+Proposal, Lead PIs of proposed projects are invited to submit Full Proposals
+using the Proposal Template. CVs and references may be attached as annexes.</p>
 <p></p>
-<p><strong>Click&nbsp;<a href="https://form.gov.sg/67e0c6ace26b96d05a4ec3ba" rel="noopener nofollow" target="_blank">here</a> to&nbsp;register your interest to attend the Grant Call Brief by 15 April 2025. For more details.</strong>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp; All shortlisted Full Proposals will then be
+forward to the OSTIn Project Evaluation Panel (PEP) for evaluation. Shortlisted
+applicants may be invited to attend the PEP meeting to present their proposal
+to the PEP and to provide clarifications to the PEP’s queries.</p>
+<p><strong>Submission</strong>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Proposals must be submitted to the RFP OIC
+using the Proposal Template via email with the Subject Title format: “STDP-Title
+of Theme-Institution &amp; Department of Applicant“. Please refer to <strong><u>Annex A</u></strong> for
+the list of available theme(s).</p>
+<p></p>
+<p><strong>Result</strong>
+</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants with applications to
+be evaluated by the PEP will be notified no later than <strong>3 months from the Closing Date for RFP.</strong> We
+regret that only shortlisted applicants will be notified. OSTIn’s decision
+on the outcome of the grant call will be considered as final.</p>
+<p>&nbsp;<strong>Clarifications</strong>
+</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp; For any enquiries, you may contact us at
+<a href="mailto:ostin@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ostin@edb.gov.sg</a>
 </p>
 <p></p>
-<p><strong>Details on the Assessment Criteria and application process will be released on 22 April 2025 at 3.00pm.</strong>
-</p>
-<p></p>
+<hr>
+<p>&nbsp;<a class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[HL1]</a>Suggest
+to add in an email contact for enquiries. But we will be in close touch
+with the Uni Research Support Office so providing this email should be
+manageable and not too overwhelming.</p>
+<hr>
 <hr>
 <p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
 University of Singapore (NUS), Nanyang Technological University (NTU),
