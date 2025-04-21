@@ -17,7 +17,7 @@ image: /images/STDP_Thematic_Grant_Call.png
 </p>
 <hr>
 <p></p>
-<p><strong><u>Grant Call Brief Details</u></strong>
+<p><strong><u>Grant Call Details</u></strong>
 </p>
 <p><strong>Exploitation of Earth Observation Data</strong>
 <br>Earth observation data has become a crucial tool in addressing sustainability
