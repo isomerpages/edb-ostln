@@ -87,8 +87,8 @@ unless approved by OSTIn.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submission of <strong><u>Letter of Intent</u></strong> between 23 Apr 2025
-to 7 May 2025, 2359H.</p>
+<p>Submission of <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank"><u>Letter of Intent</u></a></strong> between
+23 Apr 2025 to 7 May 2025, 2359H.</p>
 </li>
 <li>
 <p>Only shortlisted Letters of Intent will be invited to submit a proposal
