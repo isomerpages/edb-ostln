@@ -223,9 +223,7 @@ to the PEP and to provide clarifications to the PEP’s queries.</p>
 <p><strong>Submission</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Proposals must be submitted to the RFP OIC
-using the Proposal Template via email with the Subject Title format: “STDP-Title
-of Theme-Institution &amp; Department of Applicant“. Please refer to <strong>Annex A</strong> for
-the list of available theme(s).</p>
+using the Proposal Template via email with the Subject Title format: STDP-<em>Title of Theme</em>-<em>Institution &amp; Department of Applicant</em>.</p>
 <p></p>
 <p><strong>Result</strong>
 </p>
