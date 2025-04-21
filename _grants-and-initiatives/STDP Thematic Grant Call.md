@@ -37,14 +37,9 @@ efforts.</p>
 <p>For this grant call brief, we have identified the following key research
 themes to brief participants on the specific problem statements and envisaged
 requirements of the proposed solutions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All-Weather &amp; Accurate Anomaly Detection for Maritime Needs</p>
-</li>
-<li>
-<p>Disaster assessment and prediction for HADR needs</p>
-</li>
-</ul>
+<p><strong>1. All-Weather &amp; Accurate Anomaly Detection for Maritime Needs</strong>
+<br><strong>2. Disaster assessment and prediction for HADR needs</strong>
+</p>
 <p>These themes aim to leverage Earth observation data for sustainability
 and humanitarian applications, with an emphasis on advanced data analysis
 techniques including artificial intelligence (AI). Key objectives include:</p>
