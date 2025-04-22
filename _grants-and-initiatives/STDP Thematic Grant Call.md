@@ -205,7 +205,7 @@ of their proposed collaboration with industry.</p>
 oriented around fundamental research should also clearly articulate the
 pathways to commercialisation and/or government use cases for the proposed
 research to be undertaken.</p>
-<p><strong>Application and Evaluation Process:</strong>
+<p><strong>Application and Evaluation Process</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Upon receiving a request for proposal
 (RFP) from OSTIn, Lead PIs of proposed projects are invited to submit Full
