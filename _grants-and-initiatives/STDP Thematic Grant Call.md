@@ -207,9 +207,10 @@ pathways to commercialisation and/or government use cases for the proposed
 research to be undertaken.</p>
 <p><strong>Application and Evaluation Process:</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;In response to the OSTIn Request for
-Proposal, Lead PIs of proposed projects are invited to submit Full Proposals
-using the Proposal Template. CVs and references may be attached as annexes.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Upon receiving a request for proposal
+(RFP) from OSTIn, Lead PIs of proposed projects are invited to submit Full
+Proposals using the Proposal Template. CVs and references may be attached
+as annexes.</p>
 <p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp; All shortlisted Full Proposals will then be
 forward to the OSTIn Project Evaluation Panel (PEP) for evaluation. Shortlisted
