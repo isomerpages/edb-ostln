@@ -198,12 +198,12 @@ more downstream in nature (e.g. projects leading to the actual development
 of new products, software, and services) are <strong>required</strong> to
 have the support of an industry partner in project execution. Projects
 with a greater degree of industry support and collaboration (i.e. industry
-co-investment, industry partnerships, pathways to commercialization) are
+co-investment, industry partnerships, pathways to commercialisation) are
 preferred. Researchers are required to clearly state the nature and degree
 of their proposed collaboration with industry.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp; Projects that are more upstream in nature and
 oriented around fundamental research should also clearly articulate the
-pathways to commercialization and/or government use cases for the proposed
+pathways to commercialisation and/or government use cases for the proposed
 research to be undertaken.</p>
 <p><strong>Application and Evaluation Process:</strong>
 </p>
