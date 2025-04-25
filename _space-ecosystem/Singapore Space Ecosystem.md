@@ -32,6 +32,6 @@ the next disruptive technology</p>
 and would like to find out more, please feel free to contact us <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Join us and be part of Singapore's growing space ecosystem.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Space Sector Satellites" src="/images/SG_Space_Sector.png">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore's Space Sector Satellites" src="/images/SG_Space_Sector_Updated.png">
 </div>
 <p></p>
