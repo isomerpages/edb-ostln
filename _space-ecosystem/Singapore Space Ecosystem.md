@@ -6,7 +6,7 @@ variant: tiptap
 image: /images/SG_Space_Sector.png
 ---
 <p>Although Singapore's space ecosystem is relatively nascent, its growth
-is accelerating and the organizations involved have made great strides
+is accelerating and the organisations involved have made great strides
 in expanding their areas of expertise. Singapore's space sector comprises
 over 2,000 professionals and researchers working in over 60 companies active
 in different sections of the entire value chain - from design and manufacturing
