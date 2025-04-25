@@ -11,8 +11,7 @@ in expanding their areas of expertise. Singapore's space sector comprises
 over 2,000 professionals and researchers working in over 60 companies active
 in different sections of the entire value chain - from design and manufacturing
 to satellite based services such as data processing.</p>
-<p>For a directory of space companies in Singapore's ecosystem, please view
-and download the brochure <a href="https://www.space.gov.sg/files/Singapore_Space_Industry_Directory_2025_2026_Web_Version.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>View and download Singapore's directory of space companies <a href="https://www.space.gov.sg/files/Singapore_Space_Industry_Directory_2025_2026_Web_Version.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>The rapid growth of our space ecosystem can be attributed to some of the
 advantages that Singapore brings. Namely:</p>
 <ul data-tight="true" class="tight">
