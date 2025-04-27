@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Earth Observation Initiative.md
-      - Local Space Ecosystem.md
-      - Singapore Space Directory.md
+      - Singapore Space Ecosystem.md
       - STEM Outreach.md
