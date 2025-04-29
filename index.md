@@ -26,7 +26,7 @@ sections:
       description: With passionate people and a heart for space, our industry strives
         to achieve success and broaden our horizons towards a better future.
       button: discover
-      url: /singapore-space-ecosystems/local-space-ecosystem/
+      url: https://www.space.gov.sg/singapore-space-ecosystems/singapore-space-ecosystem/
   - resources:
       title: OSTIn Media Gallery
       button: all news
