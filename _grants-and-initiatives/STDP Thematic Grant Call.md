@@ -11,7 +11,9 @@ image: /images/STDP_Thematic_Grant_Call.png
 </div>
 <p><strong><u>Key Details:</u></strong>
 <br><strong>OSTIn’s Thematic Grant Call 2025 – Call for Letter of Intent (LOI)</strong> 
-<br><strong>Period of Application: 23 Apr to 7 May 2025</strong>
+<br><strong>Period of Application: 23 Apr 2025 to 21 May 2025, 2359H</strong>
+<br>(Extended in view of feedback from the community and recent major events
+in Singapore)
 <br><strong>Link to form:</strong>  <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent Template &amp; Submission</a></strong>
 <br>
 </p>
@@ -87,8 +89,7 @@ unless approved by OSTIn.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submission of <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank"><u>Letter of Intent</u></a></strong> between
-23 Apr 2025 to 7 May 2025, 2359H.</p>
+<p>Submission of <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank"><u>Letter of Intent</u></a></strong> between <strong>23 Apr 2025 to 21 May 2025</strong>, <strong>2359H</strong>.</p>
 </li>
 <li>
 <p>Only shortlisted Letters of Intent will be invited to submit a proposal
