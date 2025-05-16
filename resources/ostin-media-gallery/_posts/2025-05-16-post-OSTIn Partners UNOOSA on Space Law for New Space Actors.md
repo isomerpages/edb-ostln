@@ -20,10 +20,10 @@ a comprehensive policy framework that will strengthen our position as a
 responsible spacefaring nation while building up our space sector. 🇺🇳
 🇸🇬
 <br>
-<br>🇸🇬🌌⚖️ We look forward to engaging stakeholders to develop a future-ready
-regulatory environment to better support innovation and growth in the space
-ecosystem. If you are a space-related Singapore entity, we welcome your
-valuable input via the survey links below:
+<br>We look forward to engaging stakeholders to develop a future-ready regulatory
+environment to better support innovation and growth in the space ecosystem.
+If you are a space-related Singapore entity, we welcome your valuable input
+via the survey links below:
 <br>
 </p>
 <p><strong>Local Company:</strong>  <strong><a href="https://www.linkedin.com/company/united-nations-office-for-outer-space-affairs/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gKSaeiEw</a></strong>
