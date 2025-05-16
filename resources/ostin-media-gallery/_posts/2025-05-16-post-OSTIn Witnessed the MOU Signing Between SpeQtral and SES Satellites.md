@@ -23,11 +23,18 @@ communications more accessible worldwide and allow seamless services for
 end-users in Asia and Europe.&nbsp;🛰️
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="President Tharman at SES Satellites" src="/images/202503281538480043.jpg">
+</div>
 <p>The MOU signing was a significant highlight during the state visit by
 President Tharman which marks the 50th anniversary of diplomatic relations
 between Luxembourg and Singapore since 17 March 1975. 🇸🇬🇱🇺
 <br>
-<br>ED OSTIn also had the opportunity to meet with the CEO of Luxembourg Space
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ED OSTIn Jonathan Hung and Luxembourg Space Companies" src="/images/ED_OSTIn_and_Lux_Space_Coys.png">
+</div>
+<p>ED OSTIn also had the opportunity to meet with the CEO of Luxembourg Space
 Agency, Mr. Marc Serres, Site Director of Bradford space Kateryna Aheieva,
 and the Managing Director of GomSpace Edgar Milic. This visit marks the
 warm relations and furthering of space collaboration between both countries
@@ -35,11 +42,8 @@ building upon our MOU signed in 2023. 🛰️
 <br>
 <br>OSTIn is grateful for the unwavering support of our friends in Luxembourg,
 and looks forward to continued international partnerships in building the
-future of space. 🌌
-<br>
-</p>
-<p>OSTIn also welcomes more partnerships with companies to strengthen Singapore’s
-position at the forefront of quantum communications innovation and commercialisation.
-📡
+future of space. OSTIn also welcomes more partnerships with companies to
+strengthen Singapore’s position at the forefront of quantum communications
+innovation and commercialisation. 📡
 <br>
 </p>
