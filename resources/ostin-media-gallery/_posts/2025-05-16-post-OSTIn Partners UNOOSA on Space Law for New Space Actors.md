@@ -21,9 +21,9 @@ responsible spacefaring nation while building up our space sector. 🇺🇳
 🇸🇬
 <br>
 <br>We look forward to engaging stakeholders to develop a future-ready regulatory
-environment to better support innovation and growth in the space ecosystem.
-If you are a space-related Singapore entity, we welcome your valuable input
-via the survey links below:
+environment to better support innovation and growth in the space ecosystem.</p>
+<p>If you are a space-related Singapore entity, we welcome your valuable
+input via the survey links below:
 <br>
 </p>
 <p><strong><a href="https://form.gov.sg/67ef94205448d287eddfe6e5" rel="noopener nofollow" target="_blank">Local Company</a></strong>
