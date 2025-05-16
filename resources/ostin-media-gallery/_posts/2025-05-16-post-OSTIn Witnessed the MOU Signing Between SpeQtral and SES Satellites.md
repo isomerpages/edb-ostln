@@ -20,7 +20,7 @@ SpeQtral’s strengths as one of the first quantum key distribution (QKD)
 companies, together with SES’s satellite QKD expertise and position as
 a global content and connectivity solutions provider - to make quantum
 communications more accessible worldwide and allow seamless services for
-end-users in Asia and Europe.&nbsp;🛰️
+end-users in Asia and Europe.&nbsp;
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -28,7 +28,7 @@ end-users in Asia and Europe.&nbsp;🛰️
 </div>
 <p>The MOU signing was a significant highlight during the state visit by
 President Tharman which marks the 50th anniversary of diplomatic relations
-between Luxembourg and Singapore since 17 March 1975. 🇸🇬🇱🇺
+between Luxembourg and Singapore since 17 March 1975.
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -38,12 +38,12 @@ between Luxembourg and Singapore since 17 March 1975. 🇸🇬🇱🇺
 Agency, Mr. Marc Serres, Site Director of Bradford space Kateryna Aheieva,
 and the Managing Director of GomSpace Edgar Milic. This visit marks the
 warm relations and furthering of space collaboration between both countries
-building upon our MOU signed in 2023. 🛰️
+building upon our MOU signed in 2023.
 <br>
 <br>OSTIn is grateful for the unwavering support of our friends in Luxembourg,
 and looks forward to continued international partnerships in building the
 future of space. OSTIn also welcomes more partnerships with companies to
 strengthen Singapore’s position at the forefront of quantum communications
-innovation and commercialisation. 📡
+innovation and commercialisation.
 <br>
 </p>
