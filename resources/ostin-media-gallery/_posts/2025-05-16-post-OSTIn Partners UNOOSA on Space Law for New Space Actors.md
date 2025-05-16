@@ -26,11 +26,11 @@ If you are a space-related Singapore entity, we welcome your valuable input
 via the survey links below:
 <br>
 </p>
-<p><strong>Local Company:</strong>  <strong><a href="https://www.linkedin.com/company/united-nations-office-for-outer-space-affairs/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gKSaeiEw</a></strong>
+<p><strong><a href="https://form.gov.sg/67ef94205448d287eddfe6e5" rel="noopener nofollow" target="_blank">Local Company</a></strong>
 </p>
-<p><strong>International Company operating in SG:</strong>  <strong><a href="https://www.linkedin.com/company/united-nations-office-for-outer-space-affairs/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gJWMMStY</a></strong>
+<p><strong><a href="https://form.gov.sg/67ef94685448d287ede002b7" rel="noopener nofollow" target="_blank">International Company operating in SG</a></strong>
 </p>
-<p><strong>Research Institute or Academia:</strong>  <strong><a href="https://www.linkedin.com/company/united-nations-office-for-outer-space-affairs/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gKt3tZ-r</a></strong>
+<p><strong><a href="https://form.gov.sg/67ef93ed9f103fc161cad378" rel="noopener nofollow" target="_blank">Research Institute or Academia</a></strong>
 <br>
 <br>🇺🇳 <strong><a href="https://www.linkedin.com/search/results/all/?keywords=%23unoosa&amp;origin=HASH_TAG_FROM_FEED" class="pcwxHzJDNtENtbMWLKRJNYNnhxmaIdvrpU" rel="noopener noreferrer nofollow" target="_blank">#UNOOSA</a></strong> Director <strong><a href="https://www.linkedin.com/in/aarti-holla-maini-a6093a9/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Aarti Holla-Maini</a></strong> said:
 “With so many actors conducting or planning space missions all over the
