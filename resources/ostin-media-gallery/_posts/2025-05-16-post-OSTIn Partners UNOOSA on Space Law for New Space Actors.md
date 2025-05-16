@@ -54,5 +54,5 @@ Singapore in October 2025, and from the Legal Subcommittee of <strong><a href="h
 where we will hear how States are approaching the crucial topic of regulating
 national space activities.
 <br>
-<br>👉 For more information on the press release, see: <strong><a href="https://www.linkedin.com/search/results/all/?keywords=%23spacelaw&amp;amp;origin=HASH_TAG_FROM_FEED" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gERmfZ35</a></strong>
-</p>
+<br>👉 Visit this <a href="https://unis.unvienna.org/unis/en/pressrels/2025/unisos603.html" rel="noopener nofollow" target="_blank">link</a> for
+more information on the press release.</p>
