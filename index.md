@@ -40,7 +40,7 @@ sections:
   - infopic:
       title: Resources for researchers and companies
       alt: SG Space Development
-      image: /images/homepage visual-achievements 2.png
+      image: /images/Teleos_2.png
       button: Find out how OSTIN can help
       url: /resources/grants-and-initiatives/
       subtitle: Funding Opportunities
