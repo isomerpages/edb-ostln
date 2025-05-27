@@ -10,19 +10,19 @@ third_nav_title: OSTIn's Latest Updates
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experia Launches Space Summit@Singapore Airshow 2026" src="/images/Experia_Launch_Img.png">
 </div>
-<p>Experia Events has officially launched the Space Summit@Singapore Airshow
-happening from 2–3 February 2026. The space summit aims to bring together
-industry leaders, emerging players and government stakeholders to explore
-opportunities and government stakeholders to explore opportunities, foster
-partnerships and advance the regional and global space ecosystem.</p>
-<p>Space Summit@Singapore Airshow will be held alongside the biennial Singapore
-Airshow, marking a strategic expansion of the show’s scope from air to
-the frontiers of space. This new event will feature curated conference
-tracks, a dedicated exhibition zone and business networking opportunities
-focused on satellite remote sensing and communications, launch technologies,
-space sustainability, AI and other key innovations shaping the industry.</p>
-<p>The theme of this landmark event is “New Frontiers, Shared Futures: Advancing
-Space for the Good of Humanity”.</p>
+<p>OSTIn is excited to announce new endeavours blasting off at Singapore
+Airshow 2026! Experia Events has officially launched the Space Summit@Singapore
+Airshow happening from 2–3 February 2026.</p>
+<p></p>
+<p>OSTIn is proud to support the premiere space event organised in Singapore.
+The Summit aims to bring together industry leaders, emerging players and
+government stakeholders to explore opportunities, foster partnerships and
+advance the regional and global space ecosystem. This new feature will
+be held alongside the biennial Singapore Airshow, marking a strategic expansion
+of the show’s scope from air to the frontiers of space.</p>
+<p></p>
+<p>The theme of this landmark event is <strong><em>“New Frontiers, Shared Futures: Advancing Space for the Good of Humanity”.</em></strong>
+</p>
 <p></p>
 <p>Space technologies are becoming increasingly integral to our economy –
 ranging from enabling connectivity and navigation to climate monitoring
