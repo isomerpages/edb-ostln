@@ -33,7 +33,10 @@ decision-makers from the region and globe to gain a pulse of the limitless
 opportunities in space. The Summit will strengthen Singapore’s position
 as a trusted base for companies to develop, test and commercialise their
 solutions for the region and beyond.&nbsp;</p>
-<p>Link to the Experia’s press release and Space Summit LinkedIn/registration</p>
+<p><a href="https://www.linkedin.com/posts/spacesummit-singaporeairshow_experia-events-launches-space-summitsingapore-activity-7332609104785354752-q6Nn?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABkQcCEBY0TXw_8LGrpX4UCYfReOpcgN5NM" rel="noopener nofollow" target="_blank">Visit this link for Experia’s press release</a>
+</p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=TojGdLpUvkGWuaC9gu_TPHpTc1O-2_pMkIVIvkMk3_xUM0ZDODRIWFNYU0hYMEZZNzRTVVpUS0JOUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register your interest for Space Summit here</a>
+</p>
 <p></p>
 <p>&lt;&lt;include photos of the launch event on 26 May&gt;&gt;</p>
 <p></p>
