@@ -4,7 +4,9 @@ title: The Office for Space Technology & Industry
 description: Singapore's National Space Office
 image: /images/ostin.jpg
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Office for Space Technology & Industry
@@ -38,7 +40,7 @@ sections:
   - infopic:
       title: Resources for researchers and companies
       alt: SG Space Development
-      image: /images/homepage visual-achievements 2.png
+      image: /images/Teleos_2.png
       button: Find out how OSTIN can help
       url: /resources/grants-and-initiatives/
       subtitle: Funding Opportunities
