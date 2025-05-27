@@ -8,7 +8,7 @@ third_nav_title: OSTIn's Latest Updates
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Space Summit@ Singapore Airshow 2026" src="/images/Space_Summit_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="Experia Launches Space Summit@Singapore Airshow 2026" src="/images/Experia_Launch_Img.png">
 </div>
 <p>Experia Events has officially launched the Space Summit@Singapore Airshow
 happening from 2–3 February 2026. The space summit aims to bring together
@@ -38,7 +38,7 @@ solutions for the region and beyond.&nbsp;</p>
 <p><a href="https://forms.office.com/pages/responsepage.aspx?id=TojGdLpUvkGWuaC9gu_TPHpTc1O-2_pMkIVIvkMk3_xUM0ZDODRIWFNYU0hYMEZZNzRTVVpUS0JOUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register your interest for Space Summit here</a>
 </p>
 <p></p>
-<p>&lt;&lt;include photos of the launch event on 26 May&gt;&gt;</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Space Summit@ Singapore Airshow 2026" src="/images/Space_Summit_Poster.png">
+</div>
 <p></p>
