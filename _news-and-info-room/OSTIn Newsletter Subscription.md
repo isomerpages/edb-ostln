@@ -4,22 +4,25 @@ permalink: /ostin-newsletter-subscription/
 variant: tiptap
 description: OSTIn Newsletter Subscription
 ---
-<h1><strong>Get OSTIn's Space Insights, Delivered</strong></h1>
-<p>Get the latest news from Singapore's space industry and latest developments
-from Singapore's National Space Office - The Place For Space.</p>
+<h1><strong>Stay up to date with OSTIn’s news and events</strong></h1>
+<p>Get the latest updates from Singapore’s national space office and developments
+in our space ecosystem.</p>
 <p>Subscribe for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Latest developments from OSTIn</p>
+<p>Latest news and developments from OSTIn</p>
 </li>
 <li>
-<p>Latest industry updates</p>
+<p>Latest news on Singapore’s international space partnerships</p>
 </li>
 <li>
-<p>Regional and global updates from OSTIn</p>
+<p>Event invitations to forge new partnerships</p>
 </li>
 <li>
 <p>Grant and programme updates</p>
+</li>
+<li>
+<p>Exclusive insights from space leaders</p>
 </li>
 <li>
 <p>Survey opportunities to influence policy</p>
