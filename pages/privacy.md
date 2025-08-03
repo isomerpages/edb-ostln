@@ -3,4 +3,4 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-Test privacy statement page
+**Test privacy statement page**
