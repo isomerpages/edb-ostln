@@ -1,6 +1,6 @@
 ---
-title: Privacy Statement
-permalink: /privacy/
+title: Terms of use
+permalink: /terms-of-use/
 variant: markdown
 ---
 This website is owned and operated by the Office for Space, Technology & Industry, Singapore (hereinafter "OSTIn"). OSTIn has the sole discretion to change any Term at any time. PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME BEFORE YOU USE THIS WEBSITE. OSTIn reserves all rights in respect of this website.
