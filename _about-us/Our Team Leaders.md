@@ -6,4 +6,4 @@ variant: markdown
 ---
 ##### Meet the leaders behind OSTIn who spearhead the space innovation and ecosystem in Singapore.
 
-![OSTIn's Executive Director Jonathan Hung, and Team](/images/Globe_with_Logo_Team_banner__new_.png)
+<img width="1280" height="676" alt="OSTIn new management" src="https://github.com/user-attachments/assets/3c3f2d5b-69cf-4bff-a520-dca90e84b53a" />
