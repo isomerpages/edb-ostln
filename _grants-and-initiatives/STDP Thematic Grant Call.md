@@ -7,237 +7,96 @@ image: /images/STDP_Thematic_Grant_Call.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STDP Hero Image" src="/images/STDP_Thematic_Grant_Call.png">
+<img style="width: 100%" height="auto" width="100%" alt="STDP Hero Image" src="/images/Biomass grant call picture.png">
 </div>
 <p><strong><u>Key Details:</u></strong>
-<br><strong>OSTIn’s Thematic Grant Call 2025 – Call for Letter of Intent (LOI)</strong> 
-<br><strong>Period of Application: 23 Apr 2025 to 21 May 2025, 2359H</strong>
-<br>(Extended in view of feedback from the community and recent major events
-in Singapore)
-<br><strong>Link to form:</strong>  <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent Template &amp; Submission</a></strong>
+<br><strong>OSTIn’s Biomass dMRV Grant Call 2025</strong> 
+<br><strong>Period of Application: 15 Jan 2026 to 27 Feb 2026, 1700H</strong>
+<br><strong>Link to form:</strong>  <strong><a href="https://space.gov.sg/resources/stdp" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent Template &amp; Submission</a></strong>
 <br>
 </p>
 <hr>
 <p></p>
 <p><strong><u>Grant Call Details</u></strong>
 </p>
-<p><strong>Exploitation of Earth Observation Data</strong>
-<br>Earth observation data has become a crucial tool in addressing sustainability
-and humanitarian challenges, particularly in disaster response and maritime
-operations. By providing comprehensive and timely information about our
-planet, these technologies enable us to monitor, understand, and respond
-to changes more effectively.&nbsp;</p>
-<p>In disaster response, real-time satellite imagery allows for rapid assessment
-of affected areas, facilitating quicker and more targeted emergency interventions,
-whilst historical data helps in predicting and mitigating future risks.</p>
-<p>For maritime operations, Earth observation data supports critical activities
-such as optimising ship routing, enhancing port security, and detecting
-illegal fishing or oil spill incidents. This wealth of information not
-only improves operational efficiency and safety at sea but also contributes
-significantly to maritime law enforcement and environmental protection
-efforts.</p>
-<p>For this grant call brief, we have identified the following key research
-themes to brief participants on the specific problem statements and envisaged
-requirements of the proposed solutions:</p>
-<p><strong>1. All-Weather &amp; Accurate Anomaly Detection for Maritime Needs</strong>
-<br><strong>2. Disaster assessment and prediction for HADR needs</strong>
-</p>
-<p>These themes aim to leverage Earth observation data for sustainability
-and humanitarian applications, with an emphasis on advanced data analysis
-techniques including artificial intelligence (AI). Key objectives include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Developing advanced AI and machine learning algorithms to automate the
-detection, analysis, and prediction of sustainability-related phenomena.</p>
-</li>
-<li>
-<p>Enhancing data fusion techniques to integrate Earth observation data with
-other relevant data sources (e.g., ground-based sensors, socio-economic
-data) for more detailed and timely insights for decision-making.</p>
-</li>
-</ul>
-<p><strong>Project Duration</strong>
-<br>The project duration, including completion of the final report and all
-miscellaneous project activities, shall not exceed one (1) year. Proposals
-requesting support for longer than the stipulated number of years may be
-submitted. However, when compared with proposals of similar quality, these
-will be given lower priority. Strong justifications for the longer development
-period must be provided.</p>
-<p>&nbsp;<strong>Eligibility and Funding Support&nbsp;</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; This call is open to public research entities
-in Singapore, including Institutes of Higher Learning (IHLs), public sector
-agencies and Research Institutes (RIs). The main Researcher or Principle
-Investigator (PI) shall hold a full-time appointment in an eligible R&amp;D
-organisation.</p>
-<p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Public research entities in Singapore can qualify
-for up to 100% funding support of approved qualifying direct costs of a
-project. Support for indirect costs is only allowed for Singapore-based
-IHLs<a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> and
-A*STAR RIs.</p>
-<p></p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Public research entities in Singapore may collaborate
-with researchers in private companies, overseas universities, or other
-local IHLs and public sector RIs companies and research partners not based
-in Singapore;</p>
-<p></p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; All research work must be done in Singapore,
-unless approved by OSTIn.</p>
-<p></p>
-<p><strong>Duration of Grant Call</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Submission of <strong><a href="https://form.gov.sg/67b87599fac419d7dd564999" rel="noopener noreferrer nofollow" target="_blank"><u>Letter of Intent</u></a></strong> between <strong>23 Apr 2025 to 21 May 2025</strong>, <strong>2359H</strong>.</p>
-</li>
-<li>
-<p>Only shortlisted Letters of Intent will be invited to submit a proposal
-for evaluation. (See assessment criteria and evaluation processes below)</p>
-</li>
-</ul>
-<p></p>
-<hr>
-<p><strong>Assessment Criteria</strong>
-</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;Proposals will be evaluated on the following
-broad set of criteria:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; Quality and Significance of Research (35%)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Innovativeness and originality of the proposed solution</p>
-</li>
-<li>
-<p>Technical feasibility and soundness of the research approach</p>
-</li>
-<li>
-<p>Potential for breakthrough outcomes or significant improvements</p>
-</li>
-<li>
-<p>Advancement of knowledge in the field and potential for future developments</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ii</strong>. <strong>Economic and/or Fulfilling National Needs Potential (35%)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevance and potential impact on industry sectors and/or across Whole-of-Government
-(WOG)</p>
-</li>
-<li>
-<p>Alignment with national priorities and economic goals objectives</p>
-</li>
-<li>
-<p>Potential for job creation and/or skills development</p>
-</li>
-<li>
-<p>Scalability and commercialisation prospects</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>iii.&nbsp;&nbsp;&nbsp;&nbsp; Partnership and Technical Competency (15%)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Quality and specificity of real-life use cases provided by partners/end-users</p>
-</li>
-<li>
-<p>Technical expertise and track record of the research team</p>
-</li>
-<li>
-<p>Complementarity of skills and resources among partners</p>
-</li>
-<li>
-<p>Clarity of commercialisation or productisation route (e.g., interface
-specifications for integration, if relevant)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>iv.&nbsp;&nbsp;&nbsp;&nbsp; Project Management and Cost (15%)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Clarity and feasibility of project timeline and milestones</p>
-</li>
-<li>
-<p>Appropriateness of budget allocation and cost-effectiveness</p>
-</li>
-<li>
-<p>Risk management and mitigation strategies</p>
-</li>
-<li>
-<p>Clear roles and responsibilities among partners and/or end-users</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p><strong>Industry Relevance (Economic potential)</strong>
-</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; Grant applicants proposing projects that are
-more downstream in nature (e.g. projects leading to the actual development
-of new products, software, and services) are <strong>required</strong> to
-have the support of an industry partner in project execution. Projects
-with a greater degree of industry support and collaboration (i.e. industry
-co-investment, industry partnerships, pathways to commercialisation) are
-preferred. Researchers are required to clearly state the nature and degree
-of their proposed collaboration with industry.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; Projects that are more upstream in nature and
-oriented around fundamental research should also clearly articulate the
-pathways to commercialisation and/or government use cases for the proposed
-research to be undertaken.</p>
-<p><strong>Application and Evaluation Process</strong>
-</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Upon receiving a request for proposal
-(RFP) from OSTIn, Lead PIs of proposed projects are invited to submit Full
-Proposals using the Proposal Template. CVs and references may be attached
-as annexes.</p>
-<p></p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp; All shortlisted Full Proposals will then be
-forward to the OSTIn Project Evaluation Panel (PEP) for evaluation. Shortlisted
-applicants may be invited to attend the PEP meeting to present their proposal
-to the PEP and to provide clarifications to the PEP’s queries.</p>
-<p><strong>Submission</strong>
-</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Proposals must be submitted to the RFP OIC
-using the Proposal Template via email with the Subject Title format: STDP-<em>Title of Theme</em>-<em>Institution &amp; Department of Applicant</em>.</p>
-<p></p>
-<p><strong>Result</strong>
-</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants with applications to
-be evaluated by the PEP will be notified no later than <strong>3 months from the Closing Date for RFP.</strong> We
-regret that only shortlisted applicants will be notified. OSTIn’s decision
-on the outcome of the grant call will be considered as final.</p>
-<p>&nbsp;<strong>Clarifications</strong>
-</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp; For any enquiries, you may contact us at
-<a href="mailto:ostin@edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ostin@edb.gov.sg</a>
-</p>
-<p></p>
-<hr>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a> National
-University of Singapore (NUS), Nanyang Technological University (NTU),
-Singapore Management University (SMU), Singapore University of Technology
+<p><strong>Program Intent</strong>
+<br>The Biomass Digital Monitoring, Reporting and Verification (dMRV) Grant Call supports Singapore's commitment to achieving net-zero emissions by 2050 through the development of dMRV methodologies incorporating satellite remote sensing data/solutions. &nbsp;</p>
+<p>This program aims to support Singapore's strategic need to secure high integrity carbon offsets annually by 2050, while positioning the nation as a leading Geospatial Centre for Southeast Asia and the Equatorial Belt.</p>
+<p><strong>Strategic Alignment</strong>
+<p>This initiative directly supports Singapore's national climate objectives by:</p>
+
+- Enhancing the integrity and transparency of carbon offsets critical to Singapore's net-zero pathway.</p>
+- Positioning Singapore as a leading Geospatial Centre for Southeast Asia and the Equatorial Belt.</p>
+- Supporting sustainability agendas and sustainable development whilst creating economic opportunities in green finance and technology sector.</p>
+
+<p><strong>Target Ecosystems</strong></p>
+
+- Green Carbon Systems: Carbon stored in terrestrial forests and vegetation across Southeast Asia, including above-ground and below-ground biomass in forests, plantations, and other vegetated areas.
+- Blue Carbon Systems: Carbon stored in coastal and marine ecosystems, including mangroves, seagrass beds, and seaweed habitats.
+
+<p><strong>Technical Requirements</strong></p>
+
+- Proposals must demonstrate satellite remote sensing as the core technology for biomass monitoring and address measurable performance indicators including:
+- Accuracy improvements in biomass estimation
+- Temporal and Spatial resolution capabilities  
+- Demonstration of AI/ML model performance with validated datasets and uncertainty quantification
+
+<p><strong><u>Eligible Applicants</u></strong></p>
+
+1. <strong>Primary Applicants</strong>: Local Institutes of Higher Learning (IHLs) and Research Institutes (RIs) are eligible to serve as lead applicants.
+2. <strong>Industry Participation</strong>: Industry applicants must partner with local IHLs/RIs as co-applicants. Industry partners* may include technology companies, carbon project developers, satellite operators, EO data providers and environmental consulting firms.
+
+<p>*International collaborations are encouraged but must demonstrate clear value to Singapore’s remote sensing capabilities, which should originate from Singapore.</p>
+
+<p><strong><u>IHL/RI Point of Contacts</u></strong></p>
+
+- Agency for Science, Technology and Research (A*STAR): ng_yen_ting@a-star.edu.sg
+- Nanyang Technological University (NTU): eugene.see@ntu.edu.sg
+- National University of Singapore (NUS): emmilineang@nus.edu.sg
+- Singapore University of Technology and Design (SUTD): wendy_ho@sutd.edu.sg
+
+<p><strong><u>Proposal Requirements</u></strong></p>
+
+- Applications must be submitted as a Letter of Intent following the prescribed template structure, consisting of a cover page (excluded from page limit) and a maximum 5-page response 
+
+<p><strong><u>Collaboration Incentives</u></strong></p>
+
+Additional evaluation points will be awarded for:
+- Partnerships with relevant stakeholders across the carbon credit ecosystem (e.g., project developers, registries, Validation and Verification Bodies (VVBs), etc.)
+- Collaborations with research institutions from countries that have signed Article 6 agreements with Singapore
+- Demonstrated clear pathways for commercial deployment within 3-5 years post-project completion
+
+<p><strong><u>Submission Process</u></strong></p>
+
+- Applications to be submitted electronically through the OSTIn website (www.space.gov.sg)
+
+| Milestone  | Date (2026) |
+| ------------- | ------------- |
+| Grant Call Launch  | 15 Jan (Thu) |
+| LOI Application deadline | 27 Feb (Fri)  |
+| Shortlisted LOI notification | 14 Apr (Tue)  |
+| Full Proposal deadline  | 6 Jun (Fri), 5pm SGT  |
+| Full Proposal presentations  | 12 to 19 Jun (Fri) |
+| Award announcements  | By 18 Jul (Fri)  |
+| Contract Finalisation  | Jul to Aug  |
+| Project commencement  | 1 Sep  |
+
+| Grant Funding | Details |
+| ------------- | ------------- |
+| Grant Quantum  | Dependent on scope of project |
+| Grant Duration | 18 to 36 months  |
+| Co-Funding Requirement | Industry partners must contribute co-funding*, with requirements tailored to different enterprise archetypes |
+
+*Co-funding requirements start from 30%. Please reach out to OSTIn to discuss the requirement applicable to your organisation.
+
+
+<p>For enquiries on co-funding requirements, technical scope, application procedures, and eligibility, please contact OSTIn:</p>
+
+- Dr. Lim Yuan Liang @ lim_yuan_liang@edb.gov.sg
+- Mr. Goh Justus @ justus_goh@edb.gov.sg
+- Mr. Irving Seah @ irving_seah@edb.gov.sg
+
+
 and Design (SUTD), Singapore Institute of Technology (SIT), Singapore University
 of Social Sciences (SUSS), Institute of Technical Education (ITE), and
 all Polytechnics in Singapore.</p>
