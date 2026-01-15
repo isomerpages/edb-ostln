@@ -11,9 +11,7 @@ image: /images/STDP_Thematic_Grant_Call.png
 </div>
 <p><strong><u>Key Details:</u></strong>
 <br><strong>OSTIn’s Thematic Grant Call 2026 – Call for Letter of Intent (LOI)</strong> 
-<br><strong>Period of Application: 23 Apr 2025 to 21 May 2025, 2359H</strong>
-<br>(Extended in view of feedback from the community and recent major events
-in Singapore)
+<br><strong>Period of Application: 15 Jan 2026 to 27 Feb 2026, 1700H</strong>
 <br><strong>Link to form:</strong>  <strong><a href="https://www.space.gov.sg/resources/stdp/" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent Template &amp; Submission</a></strong>
 <br>
 </p>
@@ -35,12 +33,12 @@ This initiative directly supports Singapore's national climate objectives by:
 - Positioning Singapore as a leading Geospatial Centre for Southeast Asia and the Equatorial Belt
 - Supporting sustainability agendas and sustainable development whilst creating economic opportunities in green finance and technology sectors
 
-<p><strong>Target Ecosystemst</strong></p>
+<p><strong>Target Ecosystems</strong></p>
 
 - Green Carbon Systems: Carbon stored in terrestrial forests and vegetation across Southeast Asia, including above-ground and below-ground biomass in forests, plantations, and other vegetated areas.
 - Blue Carbon Systems: Carbon stored in coastal and marine ecosystems, including mangroves, seagrass beds, and seaweed habitats.
 
-<p><strong>Technical Requirementst</strong></p>
+<p><strong>Technical Requirements</strong></p>
 
 - Proposals must demonstrate satellite remote sensing as the core technology for biomass monitoring and address measurable performance indicators including:
 - Accuracy improvements in biomass estimation
@@ -75,7 +73,7 @@ Additional evaluation points will be awarded for:
 
 <p><strong>Submission Process</strong></p>
 
-- Applications to be submitted electronically through the OSTIn website (www.space.gov.sg)
+- Applications to be submitted electronically through the OSTIn website: [www.space.gov.sg/resources/stdp](https://www.space.gov.sg/resources/stdp/)
 
 For enquiries on co-funding requirements, technical scope, application procedures, and eligibility, please contact OSTIn:
 
