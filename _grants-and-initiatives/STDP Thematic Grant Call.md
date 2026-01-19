@@ -57,6 +57,7 @@ This initiative directly supports Singapore's national climate objectives by:
 - Agency for Science, Technology and Research (A*STAR): ng_yen_ting@a-star.edu.sg
 - Nanyang Technological University (NTU): eugene.see@ntu.edu.sg
 - National University of Singapore (NUS): emmilineang@nus.edu.sg
+- Singapore Institute of Technology (SIT): joyce.tan@singaporetech.edu.sg
 - Singapore University of Technology and Design (SUTD): wendy_ho@sutd.edu.sg
 
 <p><strong>Proposal Requirements</strong></p>
