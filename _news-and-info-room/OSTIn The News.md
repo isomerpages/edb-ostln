@@ -6,6 +6,7 @@ variant: markdown
 ---
 | Date | Description | 
 | -------- | -------- | 
+|2 Feb 2026| [Establishment of the National Space Agency of Singapore](https://github.com/isomerpages/edb-ostln/blob/4eddf4d6bde795c714b042d36d2ebbf21617b4c3/files/Press%20Release_Establishment%20of%20NSAS_30Jan2026.pdf)
 |13 Dec 2024| [Nikkei Asia - Singapore startup aims for quantum cryptography satellite launch in 2025](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Singapore-startup-aims-for-quantum-cryptography-satellite-launch-in-2025)
 |11 Oct 2024| [OSTIn hosts 33rd ASEAN Sub-Committee on Space Technology and Applications (SCOSA)](/ostin-hosts-33rd-asean-sub-committee-on-space-technology-and-applications-scosa/)
 | 11 Jun 2024| [OSTIn had the honour of hosting President Tharman Shanmugaratnam’s visit to explore Singapore’s vibrant space ecosystem](/ostin-hosts-president-tharman-shanmugaratnam-visit-to-singapore-space-ecosystem/)
