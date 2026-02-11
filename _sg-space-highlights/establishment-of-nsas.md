@@ -16,4 +16,4 @@ Going forward, NSAS will spearhead Singapore's efforts to fully harness the valu
 
 The establishment of NSAS represents Singapore's commitment to become a leader in space technologies and services, leveraging our strategic location, technological capabilities, and business-friendly environment to capture emerging opportunities in the global space economy.
 
-Refer to the full press release here: [Establishment of the National Space Agency of Singapore](https://github.com/isomerpages/edb-ostln/blob/d3f08e69ae6df3511def60bb6fb4b857af450d4f/files/Press%20Release%20on%20Establishment%20of%20NSAS.pdf)
+Refer to the full press release here: [Establishment of the National Space Agency of Singapore](https://www.mti.gov.sg/newsroom/establishment-of-the-national-space-agency-of-singapore/)
